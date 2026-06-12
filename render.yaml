@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: wset-chatbot
+    runtime: docker
+    region: oregon
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: LLM_API_KEY
+        sync: false
+      - key: ADMIN_SECRET
+        sync: false
