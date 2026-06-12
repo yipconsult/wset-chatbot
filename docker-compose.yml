@@ -1,0 +1,15 @@
+services:
+  wset-chatbot:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - NODE_ENV=production
+      - PORT=8000
+      - LLM_API_KEY=${LLM_API_KEY:-sk-691bc9993b0c48ed8d840cee41e7d8d5}
+      - LLM_BASE_URL=${LLM_BASE_URL:-https://api.deepseek.com}
+      - ADMIN_SECRET=${ADMIN_SECRET:-wset-admin}
+    volumes:
+      # Persist processed data (embedding cache, question banks) across restarts
+      - ./data/processed:/app/data/processed
+    restart: unless-stopped

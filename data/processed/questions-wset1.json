@@ -1,0 +1,1533 @@
+[
+  {
+    "id": 501,
+    "text": "Wine comes from the fermentation of grape juice.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 502,
+    "text": "What must happen to grapes to release their juice?",
+    "options": [
+      "They are crushed",
+      "They are fermented",
+      "They are matured",
+      "Nothing happens"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 503,
+    "text": "Which of the following pairs are the two principal types of grapes?",
+    "options": [
+      "Black and Pink Grapes",
+      "White and Yellow Grapes",
+      "Black and White Grapes",
+      "White and Pink Grapes"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 504,
+    "text": "The skins of a black grap e contain which of the following? 1. Acid 2. Sugar 3. Tannin 4. Water",
+    "options": [
+      "1, 2, and 4",
+      "3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 505,
+    "text": "What colour is the skin of ripe white grapes?",
+    "options": [
+      "Amber",
+      "Golden",
+      "Green",
+      "White"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 506,
+    "text": "The colour of the grape pulp is the same for both white and black grapes",
+    "options": [
+      "True",
+      "False 3"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 507,
+    "text": "The pulp of a grape contains which of the following? 1. Acid 2. Sugar 3. Tannin 4. Water",
+    "options": [
+      "1, 2, and 4",
+      "3 only",
+      "2 and 3 only",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 508,
+    "text": "Which is of the below is required for alcoholic fermentation?",
+    "options": [
+      "Alcohol",
+      "Carbon Dioxide",
+      "Grape Skins",
+      "Yeast"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 509,
+    "text": "Alcoholic fermentation of grape juice results in which combination?",
+    "options": [
+      "Acid and Water",
+      "Alcohol and Carbon Dioxide",
+      "Colour and Tannin",
+      "Sugar and Yeast"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 510,
+    "text": "A wine with 10% abv means:",
+    "options": [
+      "10% of the liquid is alcohol",
+      "10% of the liquid is made from grapes",
+      "10% of the liquid is sugar",
+      "10% of the liquid is water 4 Growing Grapes"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What is Wine?",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 511,
+    "text": "Grape vines do not need to be planted every year.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 512,
+    "text": "When do grape vines flower?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 513,
+    "text": "Each flower on a grape vine becomes a grape.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 514,
+    "text": "Which of the following statements about grape ripening is FALSE ?",
+    "options": [
+      "Acid levels rise",
+      "Grapes swell with water",
+      "Sugar levels rise",
+      "Skins change from green to golden or purple colour"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 515,
+    "text": "Which of the following is ne eded in correct balance for grape vines to grow? 1. Oxygen 2. Heat 3. Sunlight 4. Water",
+    "options": [
+      "4 only",
+      "1 and 2",
+      "2 , 3, and 4",
+      "1 and 3"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 516,
+    "text": "Grape vines grow best in areas where winter is cold.",
+    "options": [
+      "True",
+      "False 5"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 517,
+    "text": "Cool climate regions are typically:",
+    "options": [
+      "Closer to the Equator",
+      "Closer to the Poles",
+      "Only in the Northern Hemisphere",
+      "Only in the Southern Hemisphere"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 518,
+    "text": "Which of the following pairs are examples of cool climate regions?",
+    "options": [
+      "Australia and Germany",
+      "California and Southern France",
+      "Germany and Northern France",
+      "Northern and Southern France"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 519,
+    "text": "Black grapes are commonly grown in cool climates.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 520,
+    "text": "Warm climate regions are typically:",
+    "options": [
+      "Closer to the Equator",
+      "Closer to the Poles",
+      "Only in the Northern Hemisphere",
+      "Only in the Southern Hemisphere"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 521,
+    "text": "Which of the followin g pairs are examples of warm climate regions?",
+    "options": [
+      "Australia and Germany",
+      "California and Australia",
+      "Germany and Northern France",
+      "Northern and Southern France"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 522,
+    "text": "Which of the following statements about grapes from a warm climate is TRUE ?",
+    "options": [
+      "Acidity levels are higher",
+      "Grape flavours taste riper",
+      "Grapes can struggle to ripen at all",
+      "Sugar levels are lower 6 Making Wines"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Growing Grapes",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 523,
+    "text": "Which is the correct order for making still white wines?",
+    "options": [
+      "Crushing, Fermentation, Pressing, Maturation",
+      "Crushing, Pressing, Fermentation, Maturation",
+      "Fermentation, Pressing, Crushing, Maturation",
+      "Pressing, Crushing, Maturation, Fermentation"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 524,
+    "text": "In which vessels does the fermentation of still white wines take place? 1. Glass Bottles 2. Oak Barrels 3. Plastic Baskets 4. Sta inless Steel Tanks",
+    "options": [
+      "1, 2, and 4",
+      "2 only",
+      "2 and 4 only",
+      "All of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 525,
+    "text": "White wines can be made from black grapes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 526,
+    "text": "Which is the correct order for making still red white wines?",
+    "options": [
+      "Crushing, Fermentation, Pressing, Maturation",
+      "Crushing, Pressing, Fermentation, Maturation",
+      "Fermentation, Pressing, Crushing, Maturation",
+      "Pressing, Crushing, Maturation, Fermentation 7"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 527,
+    "text": "A winemaker uses w hich of following to produce still red wine? 1. Alcohol 2. Carbon Dioxide 3. Skins 4. Yeast",
+    "options": [
+      "1, 2, and 4",
+      "2 only",
+      "3 and 4 only",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 528,
+    "text": "Which of the below gives tannin to red wines?",
+    "options": [
+      "Skins",
+      "Sugar",
+      "Water",
+      "Yeast"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 529,
+    "text": "Draining is used to produce both red and ros é wines.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 530,
+    "text": "To create their pink colour, how long do ros é wines spend in contact with their skins?",
+    "options": [
+      "A few seconds",
+      "A few hours",
+      "A few days",
+      "A few months"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 531,
+    "text": "Ros é wines are rarely matured in oak.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 532,
+    "text": "Red wines only mature in oak.",
+    "options": [
+      "True",
+      "False 8 Types and Styles of Wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Making Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 533,
+    "text": "Most s till w ines are within which alcohol range ?",
+    "options": [
+      "8% - 12%",
+      "11.5% - 14%",
+      "14.5% - 18%",
+      "15% - 22%"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 534,
+    "text": "Which of the following is NOT an example of a s till w ine?",
+    "options": [
+      "Burgundy from France",
+      "Cava from Spain",
+      "Chianti from Italy",
+      "Sancerre from France"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 535,
+    "text": "The bubbles in s parkling w ine come from oxygen that becomes trapped in the wine during fermentation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 536,
+    "text": "Which of the below is a sparkling wine from Italy?",
+    "options": [
+      "Champagne",
+      "Chablis",
+      "Pinot Grigio",
+      "Prosecco"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 537,
+    "text": "Extra alcohol is added to wine to make fortified wines.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 538,
+    "text": "Which of the following pairs are bo th examples of f ortified w ines?",
+    "options": [
+      "Prosecco and Sancerre",
+      "Port and Prosecco",
+      "Sherry and Port",
+      "Sherry and Sancerre"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 539,
+    "text": "Rioja from Spain is an example of a still red wine.",
+    "options": [
+      "True",
+      "False 9"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 540,
+    "text": "Which of the following pairs are examples of w hite wines?",
+    "options": [
+      "Cabernet Sauvignon and Rioja",
+      "Chablis and Riesling",
+      "Port and Chianti",
+      "Sancerre and White Zinfandel"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 541,
+    "text": "Ros é wines are made from black grapes .",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 542,
+    "text": "Which of the following are ways a winemaker can make a medium sweet wine? 1. Add unfermented grape juice to dry wine 2. Add grape spirit to the fermenting wine 3. Remove yeast during fermentation 4. Nothing – the grapes are so high in sugar that the yeast stops fermenting",
+    "options": [
+      "All of t he above",
+      "1, 2, and 3",
+      "1 and 3 only",
+      "1 only"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 543,
+    "text": "Which of the following pairs are examples of sweet wines?",
+    "options": [
+      "Chablis and Chianti",
+      "C ôtes du Rhône and German Riesling",
+      "Sauvignon Blanc and White Zinfandel",
+      "Sauternes and Port"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 544,
+    "text": "Why is acidity important for sweet wines?",
+    "options": [
+      "It adds extra body to the wine",
+      "It prevents the wine from being unpleasantly sweet",
+      "It enhances the fruity character of the wine",
+      "It makes the wine seem less alcoholic"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 545,
+    "text": "How can you perceive acidity in wine?",
+    "options": [
+      "It has a bitter taste",
+      "It has a mouth - filling sensation",
+      "It has a mouth - watering effect",
+      "It has a thick, syrupy texture 10"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 546,
+    "text": "Wines made from Sauvignon Blanc and Pinot Noir are typically:",
+    "options": [
+      "High acidity",
+      "High tannin",
+      "Ros é",
+      "Sweet"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 547,
+    "text": "Which pair of wines are generally low in tannin?",
+    "options": [
+      "Beaujolais and Pinot Noir",
+      "Cabernet Sauvignon and Riesling",
+      "Chianti and Red Bordeaux",
+      "Chablis and Prosecco"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 548,
+    "text": "Still and sparkling wines have the same alcohol range.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 549,
+    "text": "Ch â teauneuf - du - Pape is an example of a still, high alcohol wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 550,
+    "text": "All aromas and flavours in wine come from the grapes themselves.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 551,
+    "text": "What types of flavours does oak give to a wine?",
+    "options": [
+      "Apple and Peach",
+      "Clove and Vanilla",
+      "Grass and Flowers",
+      "Herbs and Mushrooms 11"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 552,
+    "text": "Which of the below would best be described as full - bodied? 1. Beaujolais 2. Californian Cabernet Sauvignon 3. C ô tes du Rh ô ne 4. Sancerre",
+    "options": [
+      "2, 3, and 4",
+      "2 only",
+      "1 and 3",
+      "All of the above Principle Grape Varieties"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Types and Styles of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 553,
+    "text": "Which of the following white grapes is used in Burgundy?",
+    "options": [
+      "Chardonnay",
+      "Pinot Grigio",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 554,
+    "text": "Chardonnay from a warm climate will typically show flavours of:",
+    "options": [
+      "Apple and Lemon",
+      "Grapefruit and Asparagus",
+      "Lime and Apricot",
+      "Peach and Pineapple"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 555,
+    "text": "Dry, i nt e nsely f ru i t y , l i g ht to m e d iu m b o d y w i t h re f resh i n g l y hi gh ac i d i t y and aromas of green fruits and herbaceous notes best describes which of the following wines?",
+    "options": [
+      "Chardonnay",
+      "Merlot",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 556,
+    "text": "Which of the following is a wine made from Sauvignon Blanc?",
+    "options": [
+      "Chablis",
+      "Champagne",
+      "Sancerre",
+      "Sherry 12"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 557,
+    "text": "Pinot Grigio is a dry white wine that is often matured in oak.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 558,
+    "text": "Riesling is the classic grape of:",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 559,
+    "text": "Which of the following statements about Riesling is FALSE ?",
+    "options": [
+      "It is always high in acidity",
+      "It is never dry",
+      "It is not matured in oak",
+      "It is popular in Australia"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 560,
+    "text": "Which statements about Cabernet Sauvignon are TRUE ? 1. Black fruit and herbaceous flavours 2. High acidity 3. High tannin 4. Light Body",
+    "options": [
+      "1, 2, and 3",
+      "3 only",
+      "2 and 4",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 561,
+    "text": "Which of the following grapes is often blended with Cabernet Sauvignon in Australia ?",
+    "options": [
+      "Merlot",
+      "Pinot Noir",
+      "Shiraz"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 562,
+    "text": "Which pair of regions produces good examples of Merlot - based wines?",
+    "options": [
+      "Australia and Spain",
+      "California and Ch â teauneuf - du - P a pe",
+      "Chile and Bordeaux",
+      "New Zealand and Burgundy 13"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 563,
+    "text": "Merlot is commonly blended with which grape variety?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Pinot Noir",
+      "Syrah/Shiraz"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 564,
+    "text": "Which of the following statements about Pinot Noir is FALSE ?",
+    "options": [
+      "It has high acidity",
+      "It has flavours of blackberry, and black pepper",
+      "It has low tannins",
+      "It is light - bodied"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 565,
+    "text": "Which pair of regions produces wines made from Pinot Noir?",
+    "options": [
+      "Beaujolais and Sauternes",
+      "Bordeaux and Sancerre",
+      "Burgundy and Champagne",
+      "C ôte du Rhône and Châteauneuf - du - Pape"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 566,
+    "text": "Full - bodied, high tannins, medium acidity with black pepper and jammy black fruit flavours best describes a:",
+    "options": [
+      "Australian Shiraz",
+      "Californian Cabernet Sauvignon",
+      "Chilean Merlot",
+      "New Zealand Pinot Noir Examples of Wines"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principle Grape Varieties",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 567,
+    "text": "Which pair of grapes is used to make Champagne?",
+    "options": [
+      "Cabernet Sauvignon and Merlot",
+      "Cabernet Sauvignon and Syrah",
+      "Chardonnay and Pinot Noir",
+      "Chardonnay and Sauvignon Blanc"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 568,
+    "text": "Which pair of wines is used to make red Bordeaux?",
+    "options": [
+      "Cabernet Sauvignon and Merlot",
+      "Cabernet Sauvignon and S yrah",
+      "Chardonnay and Pinot Noir",
+      "Chardonnay and Sauvignon Blanc 14"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 569,
+    "text": "Chablis is a dry white wine made from Chardonnay.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 570,
+    "text": "Which of the following are dry red wines from France? 1. Beaujolais 2. Ch âteauneuf - du - Pape 3. C ôtes du Rhône 4. Sauternes",
+    "options": [
+      "1, 2 , and 3",
+      "2 and 3",
+      "4 only",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 571,
+    "text": "Cava and Rioja are both still wines from Spain.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 572,
+    "text": "Wh ich of the following wines not typically oaked ?",
+    "options": [
+      "Beaujolais",
+      "Chianti",
+      "Rioja",
+      "Sauternes"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 573,
+    "text": "Which of the following is a dry, medium - bodied red wine?",
+    "options": [
+      "Cava",
+      "C ô tes du Rh ô ne",
+      "Ch â teauneuf - du - Pape",
+      "Sherry"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 574,
+    "text": "Sherry and Port are both fortified wines from Spain.",
+    "options": [
+      "True",
+      "False 15"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 575,
+    "text": "Which of the following lines contains the correct information? Wine Country Type/Style",
+    "options": [
+      "Cava Italy Sparkling",
+      "Chianti Italy White",
+      "Rioja Spain Still",
+      "Sauternes France Fortified"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 576,
+    "text": "A fortified wine made to be dry, medium, or sweet best describes a:",
+    "options": [
+      "Port",
+      "Prosecco",
+      "Sauternes",
+      "Sherry"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 577,
+    "text": "Burgundy wines are made from a blend of Pinot Noir and Chardonnay.",
+    "options": [
+      "True",
+      "False Storage and Service of Wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Examples of Wines",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 578,
+    "text": "Which of the following statements is FALSE ?",
+    "options": [
+      "Bright light will make the wine stale",
+      "Incorrect storage can affect the quality of the wine",
+      "Wines should be kept at a cool and c onstant temperature",
+      "Wines with corks should be stored upright"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 579,
+    "text": "Which style of wine may be lightly chilled to 13 º C",
+    "options": [
+      "Beaujolais",
+      "Ch â teauneuf - du - P ape",
+      "C ô tes du Rh ô ne",
+      "Rioja"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 580,
+    "text": "What is the serving temperature range for Cava?",
+    "options": [
+      "6 - 10 º C / 43 - 50 º F",
+      "10 - 13 º C / 50 - 55 º F",
+      "13 º C / 55 º F",
+      "15 - 18 º C / 59 - 64 º F 16"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 581,
+    "text": "6 - 10 º C / 43 - 50 º F is the correct serving temperature range for an Oaked Chardonnay .",
+    "options": [
+      "True",
+      "F alse"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 582,
+    "text": "Which temperature range is considered “Room Temperature?”",
+    "options": [
+      "10 - 13 º C / 50 - 55 º F",
+      "11.5 - 14 º C / 53 - 5 7 º F",
+      "15 – 18 º C / 59 - 64 º F",
+      "18 - 22 º C / 64 - 72 º F"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 583,
+    "text": "Sauternes should be served well chilled.",
+    "options": [
+      "True",
+      "Fals e"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 584,
+    "text": "The best way to bring a chilled wine to room temperature is to place it next to a heat source such as a radiator.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 585,
+    "text": "Detergent residue in a glass can spoil a wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 586,
+    "text": "All still wines need to be opened with a corkscrew, such as a “waiter’s friend.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 587,
+    "text": "When opening a sparkling wine, which of the following steps is FALSE?",
+    "options": [
+      "Remove the foil",
+      "Keep your thumb on the neck of the bottle",
+      "Hold the bottle at an angle",
+      "Twist the bottle, not the cork"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 588,
+    "text": "Wh ich is the best way to keep a wine fresh after opening?",
+    "options": [
+      "Leave the bottle unopened on the counter",
+      "Reseal the bottle and let sit on the counter",
+      "Leave the bottle unopened in the fridge",
+      "Reseal the bottl e and store in the fridge 17"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 589,
+    "text": "A Blanket System preserves a wine by removing the oxygen from the bottle",
+    "options": [
+      "True",
+      "False An Introduction to Tasting"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storage and Service of Wine",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 590,
+    "text": "Which of the following is NOT an aroma or flavour characteristic in wine?",
+    "options": [
+      "Fruit",
+      "Oak",
+      "Sweetness",
+      "Vegetables"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "An Introduction to Tasting",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 591,
+    "text": "Which of the following is NOT an ideal way to prepare for a tasting?",
+    "options": [
+      "Make sur e there are no distracting smells",
+      "Use a plain white surface",
+      "Use a glass with a wide top and a narrow bowl",
+      "Make sure to have a clean palate"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "An Introduction to Tasting",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 592,
+    "text": "Excessive alcohol consumption can lead to both short - and long - term health issues.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "An Introduction to Tasting",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 593,
+    "text": "Governments issue low risk guidelines for alcohol consumption.",
+    "options": [
+      "True",
+      "False Pairing Wine and Food"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "An Introduction to Tasting",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 594,
+    "text": "A person’s preference is the most important thing to consider when pairing wine and food.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 595,
+    "text": "Which of the following foods make a wine seem dryer and more acidic?",
+    "options": [
+      "Acidic foods",
+      "Fatty/oily foods",
+      "Salty foods",
+      "Umami foods 18"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 596,
+    "text": "Sweet foods make a wine seem:",
+    "options": [
+      "More bitter and less sweet",
+      "Less acidic and less drying",
+      "More acidic and more sweet",
+      "Less bitter and more drying"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 597,
+    "text": "Acidity in food increases the perception of acidity in wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 598,
+    "text": "Salt decreases the perception of acidity in a wine .",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 599,
+    "text": "Chili heat makes alcohol seem more noticeable in w in e.",
+    "options": [
+      "True",
+      "Fals e"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  },
+  {
+    "id": 600,
+    "text": "Which factors in wine contribute to bitterness in wines ? 1. Alcohol 2. Flavour intensity 3. Oak 4. Tannins",
+    "options": [
+      "1, 2, and 4",
+      "3 only",
+      "3 and 4",
+      "All of the above 19"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Pairing Wine and Food",
+    "difficulty": "L1",
+    "level": "L1",
+    "explanation": ""
+  }
+]

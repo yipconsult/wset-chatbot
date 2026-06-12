@@ -1,0 +1,2841 @@
+[
+  {
+    "id": 1,
+    "text": "Which of the following conditions allows for the best impression of a wine?",
+    "options": [
+      "A room that has been cleaned with bleach;",
+      "A room that allows natural light;",
+      "A palate that has been freshly brushed with toothpaste;",
+      "A palate after a cup of coffee."
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 2,
+    "text": "Which of the following is the most common colour for red wines?",
+    "options": [
+      "Purple",
+      "Ruby",
+      "Garnet",
+      "Tawny"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 3,
+    "text": "Which of the following is the most common colour for white wines?",
+    "options": [
+      "Lemon",
+      "Gold",
+      "Amber",
+      "Brown"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 4,
+    "text": "Which of the following colours best describes a red wine with some age?",
+    "options": [
+      "Ruby",
+      "Garnet",
+      "Purple",
+      "Gold"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 5,
+    "text": "If the pigmentation of a wine reaches from the core to the rim, it should be described as:",
+    "options": [
+      "Pale",
+      "Medium",
+      "Deep",
+      "Pronounced"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 6,
+    "text": "Oak and malolactic conversion aromas are considered:",
+    "options": [
+      "Primary Aromas",
+      "Secondary Aromas",
+      "Tertiary Aromas",
+      "Faulted Aromas"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 7,
+    "text": "A fortified wine such as Fino Sherry with 15% alcohol is described as having:",
+    "options": [
+      "Low alcohol",
+      "Medium alcohol",
+      "High alcohol"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 8,
+    "text": "Which structural component is the main factor that contributes to body in a wine?",
+    "options": [
+      "Sugar",
+      "Acidity",
+      "Tannins",
+      "Alcohol"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 9,
+    "text": "Which factor is important for balance in wine with sugar?",
+    "options": [
+      "Acidity",
+      "Alcohol",
+      "Flavour characteristics",
+      "Tannins"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 10,
+    "text": "A wine should meet how many positive criteria to qualify as acceptable?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "None – there are problems on all criteria"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 11,
+    "text": "Which of the following is true about Sweetness in food when pairing with wine?",
+    "options": [
+      "It makes a wine seem more acidic",
+      "It makes a wine seem more bitter",
+      "It makes seem less fruity",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 12,
+    "text": "Which of the following is true about Umami in food when pairing with wine?",
+    "options": [
+      "It makes a wine seem more bitter",
+      "It makes a wine seem less acidic",
+      "It makes a wine seem sweeter",
+      "None of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 13,
+    "text": "Salt can enhance the flavour in wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 14,
+    "text": "Acidity in food can make a wine seem:",
+    "options": [
+      "Drier",
+      "Less acidic",
+      "Less fruity",
+      "More bitter"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 15,
+    "text": "Which statement is true about flavour intensity in food and wine pairing?",
+    "options": [
+      "The flavour intensity of the food should be higher that the flavour intensity of the wine",
+      "The flavour intensity of the wine should be higher than the flavour intensity of the food",
+      "The food and wine should have equal flavour intensities",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 16,
+    "text": "Which of the following pairings is correct?",
+    "options": [
+      "Salt in food decreases Acidity in wine",
+      "Umami in food decreases Alcohol in wine",
+      "Chili Heat in food decreases Bitterness in wine",
+      "Sweetness in food decreases Acidity in wine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 17,
+    "text": "The effect of chili heat is greatest in which wine style?",
+    "options": [
+      "Wines with higher alcohol",
+      "Wines with lower alcohol",
+      "Wines with residual sugar",
+      "Wines with intense fruity characters"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 18,
+    "text": "A person’s sensitivities do not play an important role in matching food and wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 19,
+    "text": "Food has a greater impact on wine than wine has on food.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 20,
+    "text": "Acidity in wine makes the palate seem cloying and unrefreshing when paired with fatty/oily foods.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 21,
+    "text": "Which statement is most appropriate for storing wine?",
+    "options": [
+      "Poor storage can create faulted wines",
+      "Wines mature well in extremes of temperature",
+      "Wines sealed with a screwcap should be stored on its side",
+      "Bright light helps a wine retain its freshness"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 22,
+    "text": "Which degree is generally accepted as “room temperature?”",
+    "options": [
+      "6°C / 46°F",
+      "12°C / 50°F",
+      "18°C / 64°F",
+      "24°C / 75°F"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 23,
+    "text": "Which type of wine is best served in a flute?",
+    "options": [
+      "Sparkling wine",
+      "Dry red wine",
+      "Dry white wine",
+      "Fortified sweet wine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 24,
+    "text": "Which style of wine could be served at the warmest temperature range?",
+    "options": [
+      "Still red wine",
+      "Rosé wine",
+      "Sparkling wine",
+      "Sweet wine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 25,
+    "text": "Which of the following wines should be served at the coolest temperature range?",
+    "options": [
+      "Beaujolais",
+      "Champagne",
+      "Pinot Grigio",
+      "Shiraz"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 26,
+    "text": "An ice-bucket will efficiently chill a wine if:",
+    "options": [
+      "The bucket is filled with ice only",
+      "The bucket is filled with ice and a little water",
+      "The bucket is filled with both parts ice and cold water",
+      "The bucket is filled of mostly water and a little ice"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 27,
+    "text": "When opening a bottle of sparkling wine, one should always:",
+    "options": [
+      "Hold the cork secure while loosening the cage",
+      "Hold the bottle at an angle",
+      "Turn the bottle, not the cork",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 28,
+    "text": "When decanting an aged red wine, why should it be held near a light source?",
+    "options": [
+      "It helps prevent the sediments from being agitated",
+      "It helps bring the wine up to room temperature",
+      "It helps with seeing when sediments collect in the neck",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 29,
+    "text": "Aromas of damp cardboard and muted fruit flavours is indicative of:",
+    "options": [
+      "A wine that has been in contact with a cork contaminated with TCA",
+      "A wine that has been unintentionally exposed to oxygen by a failed closure",
+      "A wine that has been damaged by exposure to heat or sunlight",
+      "A wine that has thrown sediment from prolonged aging in bottle"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 30,
+    "text": "A blanket system:",
+    "options": [
+      "Chills a wine to proper serving temperature",
+      "Adds a layer of gas to protect remaining wine from oxidation",
+      "Is a decanting method that efficiently allows a wine to breathe",
+      "None of the above \n \n \nSection 2 – Factors Affecting Wine Style and Quality"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 31,
+    "text": "Which of the following pairs are found in the pulp of a grape?",
+    "options": [
+      "Carbon dioxide and alcohol",
+      "Colour and tannin",
+      "Seeds and stems",
+      "Sugar and acid"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 32,
+    "text": "Most wine grapes belong to which species of vine?",
+    "options": [
+      "African",
+      "Asian",
+      "European",
+      "North American"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 33,
+    "text": "Which environmental factor generates energy in the vine to produce sugars to grow and ripen grapes?",
+    "options": [
+      "Carbon dioxide",
+      "Nutrients",
+      "Sunlight",
+      "Water"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 34,
+    "text": "Which is the correct order for grape formation and ripening?",
+    "options": [
+      "Flowering, Fruit Set, Véraison, Ripening",
+      "Ripening, Véraison, Fruit Set, Flowering",
+      "Fruit Set, Flowering, Ripening, Véraison",
+      "Véraison, Ripening, Flowering, Fruit Set"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 35,
+    "text": "Which of the following occurs during Véraison?",
+    "options": [
+      "Flowers are pollinated and turn into newly formed grapes",
+      "Grapes change colour from dark green to golden or reddish-purple",
+      "Grapes swell with water and sugars",
+      "Grapes develop tannins and flavours"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 36,
+    "text": "An example of a grape that performs better in a warm climate but not in a cool climate is:",
+    "options": [
+      "Chardonnay",
+      "Grenache",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 37,
+    "text": "Warm ocean currents play a significant climatic role in:",
+    "options": [
+      "California",
+      "Chile",
+      "Northern Europe",
+      "South Africa"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 38,
+    "text": "A wine region with an average growing season temperature of 17°C / 63°F is considered to have a:",
+    "options": [
+      "Cold Climate",
+      "Cool Climate",
+      "Moderate Climate",
+      "Warm Climate"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 39,
+    "text": "In climates further from the equator, vineyards can maximise sunlight exposure by:",
+    "options": [
+      "Planting grapes on flat, easily accessible land",
+      "Planting grapes on slopes that receive ample shade",
+      "Planting grapes on slopes facing rivers",
+      "Planting grapes on cool soils with no stones"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 41,
+    "text": "Most of the world’s vineyards are found between which degrees of latitude?",
+    "options": [
+      "10 to 30",
+      "20 to 40",
+      "30 to 50",
+      "40 to 60"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 42,
+    "text": "Which weather-related issue can result in wines that are too high in acidity?",
+    "options": [
+      "Cooler than usual vintages",
+      "Frost",
+      "Hail",
+      "High levels of rain"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 43,
+    "text": "Which of the following is a challenge in the spring that can reduce the crop for the year?",
+    "options": [
+      "Drought",
+      "Frost",
+      "Hail",
+      "Hotter than usual temperatures"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 44,
+    "text": "Which of the following would be used in high levels of moisture?",
+    "options": [
+      "Fungicides",
+      "Herbicides",
+      "Pesticides",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 45,
+    "text": "The challenge of lower yields is:",
+    "options": [
+      "Commercial viability",
+      "Diluted flavours",
+      "Lower sugar levels",
+      "Shriveled grapes that develop raisin-like flavours"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 46,
+    "text": "An example of a pest or disease that is beneficial to grapes is:",
+    "options": [
+      "Birds",
+      "Pierce’s Disease",
+      "Mildew",
+      "Botrytis Cinerea"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 47,
+    "text": "Grapes harvested later in the ripening process will have:",
+    "options": [
+      "Higher acidity, lower sugars",
+      "Higher sugars, lower acidity",
+      "Higher sugars and acidity",
+      "Lower acidity and sugars"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 48,
+    "text": "Vendanges tardives indicates a wine made from:",
+    "options": [
+      "Grapes that have been picked later in the harvest season",
+      "Grapes that have been affected by botrytis",
+      "Grapes that have been left to freeze on the vine",
+      "Grapes that have been harvested from old vines"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 49,
+    "text": "An example of a PDO-level wine in Europe is:",
+    "options": [
+      "Indicazione Geografica Tipica",
+      "Qualitätswein",
+      "Vin de Pays",
+      "Vino de la Tierra"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 50,
+    "text": "The acronym AOC refers to a PDO-wine from which country?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 51,
+    "text": "Which process maximizes extraction of liquid from grapes?",
+    "options": [
+      "Crushing",
+      "Pressing",
+      "Fermentation",
+      "Maceration"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 52,
+    "text": "Which combination of factors would most likely increase the cost of a wine?",
+    "options": [
+      "Steep vineyard, new French oak barrels, natural cork",
+      "Machine-harvest, used American barrels, screwcap",
+      "Hand-harvest, stainless steel, synthetic cork",
+      "High-yield, oak staves, cardboard box"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 53,
+    "text": "Which is the correct typical order for red winemaking?",
+    "options": [
+      "Pressing, Draining, Fermentation, Maturation",
+      "Fermentation, Draining, Pressing, Maturation",
+      "Draining, Maturation, Pressing, Fermentation",
+      "Maturation, Fermentation, Draining, Pressing"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 54,
+    "text": "Which process uses a plunger to extract colour and tannin for red winemaking?",
+    "options": [
+      "Blending",
+      "Short maceration",
+      "Pumping over",
+      "Punching down"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 55,
+    "text": "Which is the correct order for dry white winemaking?",
+    "options": [
+      "Crushing, Pressing, Fermentation, Maturation",
+      "Fermentation, Maturation, Crushing, Pressing",
+      "Maturation, Crushing, Pressing, Fermentation",
+      "Pressing, Fermentation, Crushing, Maturation"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 56,
+    "text": "Short maceration followed by fermentation temperatures of 12°C – 22°C (54°F - 72°F) best describes:",
+    "options": [
+      "White winemaking",
+      "Rosé winemaking",
+      "Red winemaking",
+      "Sweet winemaking"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 57,
+    "text": "In cool vintages:",
+    "options": [
+      "Acid may be added to the grape juice before fermentation",
+      "Acid may be added to the finished wine after fermentation",
+      "Sugar may be added to the grape juice before fermentation",
+      "Sugar may be added to the finished wine after fermentation"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 58,
+    "text": "Which of the following would result in the least cost when adding oak flavours to a wine?",
+    "options": [
+      "Oak staves",
+      "New French oak",
+      "Previously used barrels",
+      "Barrel fermentation"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 59,
+    "text": "Which vessel would lead to maturation with oxygen?",
+    "options": [
+      "OId oak vats",
+      "Bottles",
+      "Cement tanks",
+      "Stainless steel tanks"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 60,
+    "text": "After which step of the winemaking process is the wine unlikely to improve?",
+    "options": [
+      "Pressing",
+      "Fermentation",
+      "Maturation",
+      "Packaging \n \n \nSection 3 – Grape Varieties & Still Wines"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 61,
+    "text": "Which of the following statements about Pinot Noir is true?",
+    "options": [
+      "Pinot Noir is widely planted as it adapts easily to a variety of climatic conditions",
+      "Pinot Noir can be enjoyed when it is young",
+      "Pinot Noir produces full-body wines with strong tannins",
+      "Pinot Noir can withstand intense flavours from new oak"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 62,
+    "text": "If a climate or vintage is too warm, the flavours of Pinot Noir will:",
+    "options": [
+      "Be well-suited for several years aging in bottle",
+      "Show unattractive flavours of cooked fruit",
+      "Show subtle flavours of clove and smoke",
+      "Struggle to ripen"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 63,
+    "text": "Which labelling term would be the highest-quality from the best vineyards in Burgundy?",
+    "options": [
+      "Cru",
+      "Grand Cru",
+      "Premier Cru",
+      "Villages"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 64,
+    "text": "Which of the following is not a village AOC in Burgundy?",
+    "options": [
+      "Beaune",
+      "Gevrey-Chambertin",
+      "Nuits-Saint-Georges",
+      "Pomerol"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 65,
+    "text": "Good examples of Pinot Noir in California are generally not found in:",
+    "options": [
+      "Carneros",
+      "Santa Barbara",
+      "Sonoma",
+      "Napa"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 66,
+    "text": "A cool region of Australia that produces quality Pinot Noir is:",
+    "options": [
+      "Barossa Valley",
+      "Hunter Valley",
+      "Clare Valley",
+      "Yarra Valley"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 67,
+    "text": "Which region of New Zealand is not famous for its Pinot Noir?",
+    "options": [
+      "Central Otago",
+      "Hawke’s Bay",
+      "Marlborough",
+      "Martinborough"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 68,
+    "text": "Which Chilean region produces very good Pinot Noir?",
+    "options": [
+      "Casablanca Valley",
+      "Central Valley",
+      "Colchagua",
+      "Maipo"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 69,
+    "text": "Which region is well known for producing high quality Pinot Noir in South Africa?",
+    "options": [
+      "Mornington Peninsula",
+      "Oregon",
+      "Stellenbosch",
+      "Walker Bay"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 70,
+    "text": "Blending Pinot Noir with other grapes is common practice in:",
+    "options": [
+      "Burgundy",
+      "Beaujolais",
+      "Champagne",
+      "Hermitage"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 71,
+    "text": "What type of climate is best suited for Zinfandel/Primitivo?",
+    "options": [
+      "Cool Climate",
+      "Moderate Climate",
+      "Warm Climate",
+      "All of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 4,
+    "text": "It is typically aged in oak",
+    "options": [
+      "2 only",
+      "2 & 4",
+      "1, 2, & 4",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 73,
+    "text": "Zinfandel grapes can ofted raisin on the vine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 75,
+    "text": "Which Italian region is the source of wines made from Primitivo?",
+    "options": [
+      "Piemonte",
+      "Puglia",
+      "Tuscany",
+      "Veneto"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 76,
+    "text": "Just-ripe Riesling produces flavours of:",
+    "options": [
+      "Apple, lime, and lemon",
+      "Apricot, mango, and raisins",
+      "Asparagus, green bell pepper, and gooseberry",
+      "Vanilla, coconut, and hazelnut"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 77,
+    "text": "Naturally high acidity in Riesling means:",
+    "options": [
+      "It is suitable for late-harvesting when conditions are right",
+      "It should be consumed young and does not have potential to develop further",
+      "Oak aging is often used to contribute to balance and complexity",
+      "None of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 78,
+    "text": "Which of the following terms describes a sterile grape juice that can be added to sweeten some Rieslings?",
+    "options": [
+      "Prädikatswein",
+      "Qualitätswein",
+      "Süssreserve",
+      "Spätlese"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 79,
+    "text": "What is the determining factor for each of the German Prädikatswein levels?",
+    "options": [
+      "Vineyard site",
+      "Vintage",
+      "Sugar levels",
+      "Price"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 80,
+    "text": "In order of least ripe to most ripe, which of the following is correct?",
+    "options": [
+      "Kabinett, Spätlese, Auslese, Beerenauslese",
+      "Beerenauslese, Auslese, Spätlese, Kabinett",
+      "Auslese, Beerenauslese, Spätlese, Kabinett",
+      "Spätlese, Kabinett, Auslese, Beerenauslese"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 81,
+    "text": "Which Prädikatswein translates to English as “late harvest?”",
+    "options": [
+      "Auslese",
+      "Eiswein",
+      "Halbtrocken",
+      "Spätlese"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 82,
+    "text": "Which region typically has lighter-bodied Rieslings that have medium-sweetness?",
+    "options": [
+      "Mosel",
+      "Rheingau",
+      "Pfalz",
+      "Eden Valley"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 83,
+    "text": "Which term refers to a Riesling that is made from selected dried berries?",
+    "options": [
+      "Halbtrocken",
+      "Kabinett",
+      "Landwein",
+      "Trockenbeerenauslese"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 84,
+    "text": "Which pair of regions produces Australia’s signature Rieslings?",
+    "options": [
+      "Clare Valley and Eden Valley",
+      "Barossa Valley and McLaren Vale",
+      "Yarra Valley and Hunter Valley",
+      "Mornington Peninsula and Margaret River"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 85,
+    "text": "The Vosges Mountains allow Riesling to ripen slowly and gradually in which French region?",
+    "options": [
+      "Alsace",
+      "Burgundy",
+      "Loire Valley",
+      "Rhône Valley"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 86,
+    "text": "Chenin Blanc, Sémillon, and Furmint are often used to produce high-quality:",
+    "options": [
+      "Sparkling wines made using the traditional method",
+      "Red wines that are often matured in oak",
+      "Sweet wines made from noble rot",
+      "Wines that are fortified after fermentation"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 87,
+    "text": "The grape variety used to make a Vouvray is:",
+    "options": [
+      "Chenin Blanc",
+      "Furmint",
+      "Sémillon",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 88,
+    "text": "The style of wine from Vouvray AOC is:",
+    "options": [
+      "Dry to off-dry",
+      "Medium to Sweet",
+      "Sparkling",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 89,
+    "text": "Sauvignon Blanc is typically blended with:",
+    "options": [
+      "Chenin Blanc",
+      "Sémillon/Semillon",
+      "Furmint",
+      "None of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 90,
+    "text": "Which term is an indication of sweetness in a wine from Tokaj?",
+    "options": [
+      "Beerenauslese",
+      "Classico",
+      "Puttonyos",
+      "Reserva"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 91,
+    "text": "South Africa’s most widely planted white grape variety is:",
+    "options": [
+      "Chenin Blanc",
+      "Furmint",
+      "Semillon",
+      "None of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 92,
+    "text": "Which region is not known for its botrytis-affected sweet wines?",
+    "options": [
+      "Hunter Valley",
+      "Sauternes AOC",
+      "Tokaj",
+      "Vouvray AOC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 93,
+    "text": "A Tokaji wine made from Furmint can be dry.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 94,
+    "text": "Sauternes wines are based on which variety?",
+    "options": [
+      "Chenin Blanc",
+      "Furmint",
+      "Riesling",
+      "Sémillon"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 96,
+    "text": "Which of the following statements about Chardonnay is false?",
+    "options": [
+      "Chardonnay is always oaked",
+      "Chardonnay is the grape of Chablis",
+      "Chardonnay is grown in a range of climates",
+      "Chardonnay can show a range of primary fruit characters"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 98,
+    "text": "Which winemaking practice contributes flavours of butter and cream to a Chardonnay?",
+    "options": [
+      "Malolactic conversion",
+      "Lees stirring",
+      "Oak barrel maturation",
+      "Bottle aging"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 99,
+    "text": "Winemakers can use oak chips to give Chardonnay oak flavours.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 100,
+    "text": "Which of the following is not an AOC for Chardonnay?",
+    "options": [
+      "Bordeaux AOC",
+      "Bourgogne AOC",
+      "Mâcon AOC",
+      "Meursault AOC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 101,
+    "text": "Which of the following regions would Chardonnay most likely be unoaked?",
+    "options": [
+      "Chablis AOC",
+      "Puligny-Montrachet AOC",
+      "Meursault AOC",
+      "Pouilly-Fuissé AOC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 102,
+    "text": "Which region is considered the heart of Burgundian Chardonnay?",
+    "options": [
+      "Côte de Nuits",
+      "Côte de Beaune",
+      "Côte-Rôtie",
+      "Côtes du Rhône"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 103,
+    "text": "Which region on a label would unlikely be a source of high-volume Chardonnay?",
+    "options": [
+      "Central Valley",
+      "Hawke’s Bay",
+      "Southeastern Australia",
+      "Western Cape"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 104,
+    "text": "Which Californian region would have a warmer climate for Chardonnay?",
+    "options": [
+      "Carneros",
+      "Napa Valley",
+      "Santa Barbara",
+      "Sonoma"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 105,
+    "text": "Which of the following is not an Australian region known for its Chardonnay?",
+    "options": [
+      "Adelaide Hills",
+      "Margaret River",
+      "Walker Bay",
+      "Yarra Valley"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 106,
+    "text": "Which of the following statements about Sauvignon Blanc is false?",
+    "options": [
+      "It is an aromatic varietal",
+      "It is usually high in acidity and light to medium bodied",
+      "It needs a warm climate to show its herbaceous character",
+      "It does not typically benefit from bottle aging"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 107,
+    "text": "Which of the following is not an AOC for Sauvignon Blanc in the Loire Valley?",
+    "options": [
+      "Sancerre AOC",
+      "Pouilly-Fuissé AOC",
+      "Touraine AOC",
+      "Pouilly-Fumé AOC"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 108,
+    "text": "Sémillon and Sauvignon Blanc are blended in Bordeaux because:",
+    "options": [
+      "Sauvignon Blanc lacks acidity, adding Semillon increases aging potential",
+      "Sémillon is an aromatic grape that can help bring flavour to Sauvignon Blanc",
+      "Sauvignon Blanc benefits from additional body brought to the blend by Sémillon",
+      "All of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 109,
+    "text": "Which Bordeaux AOC is home to top quality Sauvignon Blanc?",
+    "options": [
+      "Haut-Médoc AOC",
+      "Margaux AOC",
+      "Pessac-Léognan AOC",
+      "St.-Émilion AOC"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 110,
+    "text": "The classic home for Sauvignon Blanc in New Zealand is found in:",
+    "options": [
+      "Hawke’s Bay",
+      "Marlborough",
+      "Central Otago",
+      "Walker Bay"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 111,
+    "text": "New Zealand Sauvignon Blanc can best be described as:",
+    "options": [
+      "Dry, high acidity, neutral aromas",
+      "Off-dry, high acidity, pungent aromas",
+      "Dry, high acidity, pungent aromas",
+      "Off-dry, low acidity, neutral aromas"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 112,
+    "text": "Which pair of regions are known for Sauvignon Blanc in Australia?",
+    "options": [
+      "Adelaide Hills and Margaret River",
+      "Hunter Valley and Barossa Valley",
+      "Eden Valley and Clare Valley",
+      "Yarra Valley and Mornington Peninsula"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 113,
+    "text": "Most of California is not suited to growing fresh, herbaceous Sauvignon Blanc because:",
+    "options": [
+      "Fogs keep temperatures cool",
+      "Soils are too fertile",
+      "The climate is too warm",
+      "The weather is too dry"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 114,
+    "text": "What pair of regions in South Africa are famous for Sauvignon Blanc?",
+    "options": [
+      "Casablanca Valley and Central Valley",
+      "Constantia and Elgin",
+      "Napa Valley and Sonoma",
+      "Walker Bay and Western Cape"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 115,
+    "text": "Argentina is emerging as a significant producer of high-quality Sauvignon Blanc.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 116,
+    "text": "Pinot Gris is the same grape variety as Pinot Noir.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 117,
+    "text": "Which most contributes to the stylistic differences between a Pinot Grigio and a Pinot Gris?",
+    "options": [
+      "Grape-growing choices",
+      "Fermentation choices",
+      "Maturation choices",
+      "Packaging choices"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 119,
+    "text": "Pinot Gris is known as Pinot Grigio in:",
+    "options": [
+      "Germany",
+      "Italy",
+      "Portugal",
+      "Spain"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 120,
+    "text": "Pinot Grigio/Pinot Gris is often fermented and matured in a portion of new oak.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 121,
+    "text": "Which pair of regions are known for producing Pinot Grigio in Italy?",
+    "options": [
+      "Campania and Venezie",
+      "Friuli and Veneto",
+      "Piemonte and Puglia",
+      "Tuscany and Marche"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 122,
+    "text": "Typical aromas and flavours for Pinot Gris in Alsace are:",
+    "options": [
+      "Lemon, apple, and honey",
+      "Peach, mango, and honey",
+      "Rose, clove and banana",
+      "Strawberry, clove and mushroom"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 123,
+    "text": "Pinot Gris can come from a Premier Cru vineyard in Alsace.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 4,
+    "text": "Sémillon",
+    "options": [
+      "2 only",
+      "2 & 4",
+      "1, 2, & 3",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 125,
+    "text": "Gewurztraminer and Viognier are often blended together.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 126,
+    "text": "Gewurztraminer is best described as:",
+    "options": [
+      "Medium-bodied with medium alcohol",
+      "Full-bodied with high alcohol",
+      "Light-bodied with light alcohol",
+      "Any of the above; it depends on the sweetness"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 127,
+    "text": "Albariño is the white grape of which region?",
+    "options": [
+      "Priorat DOCa",
+      "Rías Baixas DO",
+      "Ribera del Duero DO",
+      "Rioja DOCa"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 128,
+    "text": "Which AOC is home to the finest examples of Viognier?",
+    "options": [
+      "Condrieu AOC",
+      "Côte-Rôtie AOC",
+      "Graves AOC",
+      "Touraine AOC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 129,
+    "text": "Dry, full-body, pronounced aromas of peach, apricot, and blossom best describe:",
+    "options": [
+      "Albariño",
+      "Gewurztraminer",
+      "Pinot Gris",
+      "Viognier"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 130,
+    "text": "The Albariño grape is known for producing which of the following:",
+    "options": [
+      "Sweet, high-acid, oaked white wines with tropical fruit character",
+      "Light to medium bodied red wines with red fruit character",
+      "Unoaked dry white wines with citrus and stone fruit character",
+      "Simple, medium-sweet unoaked rosé wines with red fruit character"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 131,
+    "text": "Merlot is originally from:",
+    "options": [
+      "Bordeaux",
+      "Burgundy",
+      "Loire Valley",
+      "Rhône Valley"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 132,
+    "text": "Riper Merlot from a warmer climate will show primary flavours of:",
+    "options": [
+      "Blackcurrant and green bell pepper",
+      "Blackberry and black plum",
+      "Green apple and lemon",
+      "Strawberry and black pepper"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 133,
+    "text": "When blended together, Merlot brings to Cabernet Sauvignon:",
+    "options": [
+      "Lower tannin and red-fruit flavours",
+      "Higher tannin and red-fruit flavours",
+      "Lower tannin and dark-fruit flavours",
+      "Higher tannin and dark-fruit flavours"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 134,
+    "text": "Merlot typically needs more time to mature in oak and age in bottle than Cabernet Sauvignon.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 135,
+    "text": "Which river divides Bordeaux into a Left and Right Bank?",
+    "options": [
+      "Gironde",
+      "Loire",
+      "Rhine",
+      "Rhône"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 136,
+    "text": "Which of the following communes is not on the Left Bank?",
+    "options": [
+      "Margaux",
+      "Pomerol",
+      "Pessac-Léognan",
+      "Pauillac"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 137,
+    "text": "Which of the following AOCs would be mostly Merlot?",
+    "options": [
+      "Haut-Médoc AOC",
+      "Graves AOC",
+      "St.-Émilion Grand Cru AOC",
+      "Pessac-Léognan AOC"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 138,
+    "text": "Premium California Merlot typically shows light, subtle flavours of vanilla and coconut.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 139,
+    "text": "Which Chilean region typically produces medium-bodied Merlots from high yields?",
+    "options": [
+      "Casablanca Valley",
+      "Central Valley",
+      "Colchagua",
+      "Maipo"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 140,
+    "text": "In which Australian region does Merlot play an important role in blends with Cabernet Sauvignon?",
+    "options": [
+      "Barossa Valley",
+      "Coonawarra",
+      "Margaret River",
+      "Mornington Peninsula"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 141,
+    "text": "The climate of Bordeaux is best described as:",
+    "options": [
+      "Cool continental",
+      "Moderate maritime",
+      "Warm Mediterranean",
+      "Hot tropical"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 142,
+    "text": "Which of the following statements best describes a Cabernet Sauvignon?",
+    "options": [
+      "High tannin, pronounced aromatics, high acidity",
+      "Medium tannin, medium aromatics, full body",
+      "Soft tannin, medium aromatics, light body",
+      "High tannins, high aromatics, medium acidity"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 143,
+    "text": "Which flavour profile best describes a Cabernet Sauvignon?",
+    "options": [
+      "Strawberry, mushroom, and barnyard",
+      "Black currants, bell pepper, and mint",
+      "Plum, dark cherry, and coffee",
+      "Blackberry, black pepper, and liquorice"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 144,
+    "text": "Which of the following statements about Cabernet Sauvignon is true?",
+    "options": [
+      "It ripens easily so can be grown in either a cool or warm climate",
+      "It has its classic home on the Right Bank of Bordeaux",
+      "Its high acidity and high tannins enable it to age for a long time",
+      "All of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 145,
+    "text": "Which AOC includes the sub region of Pessac-Léognan?",
+    "options": [
+      "Médoc AOC",
+      "Haut-Médoc AOC",
+      "Graves AOC",
+      "St. Émilion AOC"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 146,
+    "text": "Which region has established itself as a source of distinctively minty Cabernet Sauvignon in Australia?",
+    "options": [
+      "Coonawarra",
+      "Barossa Valley",
+      "Hawke’s Bay",
+      "Oakville"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 147,
+    "text": "Which of the following statements about Napa Valley Cabernet Sauvignon is false:",
+    "options": [
+      "It is a powerful wine with high, ripe tannins",
+      "It has pronounced flavours of black fruits and oak",
+      "It is sometimes blended with small amounts of other grape varieties",
+      "It is difficult to ripen in the California climate"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 148,
+    "text": "Which Chilean region is not a major source of Cabernet Sauvignon and Merlot?",
+    "options": [
+      "Casablanca",
+      "Central Valley",
+      "Colchagua",
+      "Maipo"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 149,
+    "text": "In which region would Carmenère be blended with Cabernet Sauvignon?",
+    "options": [
+      "Calistoga",
+      "Colchagua",
+      "Margaret River",
+      "Stellenbosch"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 150,
+    "text": "Which term in Bordeaux indicates a high ranking for the best wines of the region?",
+    "options": [
+      "Château",
+      "Cru Bourgeois",
+      "Cru Classé",
+      "Supérieur"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 151,
+    "text": "Which flavour profile best describes a Syrah?",
+    "options": [
+      "Strawberry, mushroom, and barnyard",
+      "Black currants, green bell pepper, and cedar",
+      "Red Plum, dark cherry, and coffee",
+      "Blackberry, black pepper, and herbal"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 152,
+    "text": "Which of the following would be a good description of a Syrah grape?",
+    "options": [
+      "Large berries, thin skins, and low acidity",
+      "Small berries, thin skins, and medium acidity",
+      "Small berries, thick skins, and medium acidity",
+      "Large berries, thick skins, and high acidity"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 153,
+    "text": "Syrah is used to blend with Grenache to bring:",
+    "options": [
+      "More colour and softer tannins",
+      "Lighter colour and higher tannins",
+      "More colour and higher tannins",
+      "Light colour and lower tannins"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 154,
+    "text": "The classic region for Syrah is:",
+    "options": [
+      "The Northern Rhône",
+      "The Southern Rhône",
+      "The Left Bank",
+      "The Right Bank"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 155,
+    "text": "Among the best appellations for Syrah are:",
+    "options": [
+      "Chambertin and Montrachet",
+      "Côte-Rôtie and Hermitage",
+      "Margaux and Pauillac",
+      "St.-Émilion and Pomerol"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 156,
+    "text": "Why are Syrah grapes hand-harvested in the Rhône Valley?",
+    "options": [
+      "Grapes are harvested from old vines",
+      "Noble rot only affects some of the grapes",
+      "Vines are planted in gravel soils",
+      "Vineyards are planted on steep slopes"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 157,
+    "text": "Which Australian region has a cloudy climate that results in medium-bodied Shiraz?",
+    "options": [
+      "Barossa Valley",
+      "Clare Valley",
+      "Hunter Valley",
+      "Yarra Valley"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 158,
+    "text": "Shiraz is used to produce sparkling wines in Australia.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 160,
+    "text": "Which region is famous for producing wines made from Gamay?",
+    "options": [
+      "Beaujolais",
+      "Burgundy",
+      "Rhône Valley",
+      "Rioja"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 161,
+    "text": "Which of these is a cru that produces wines made from Gamay?",
+    "options": [
+      "Beaune",
+      "Fleurie",
+      "Hermitage",
+      "Minervois"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 162,
+    "text": "Which of the following would be a good description of a Grenache grape?",
+    "options": [
+      "High sugars, thin skins, and low acidity",
+      "Low sugars, thin skins, and medium acidity",
+      "Low sugars, thick skins, and medium acidity",
+      "High sugars, thick skins, and high acidity"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 163,
+    "text": "Which flavour profile best describes a Grenache?",
+    "options": [
+      "Strawberry, raspberry, and white pepper",
+      "Black currants, bell pepper, and cedar",
+      "Plum, dark cherry, and coffee",
+      "Blackberry, black pepper, and liquorice"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 164,
+    "text": "Which pair of grape varieties are commonly blended with Grenache?",
+    "options": [
+      "Cabernet Sauvignon and Merlot",
+      "Gamay and Pinot Noir",
+      "Sangiovese and Primitivo",
+      "Syrah and Tempranillo"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 165,
+    "text": "Grenache is often used to produce rosé wines.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 166,
+    "text": "Which region would see red wines made mostly from Grenache?",
+    "options": [
+      "Côtes du Rhône",
+      "Côte de Beaune",
+      "Côte-Rôtie",
+      "Côte de Nuits"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 167,
+    "text": "Which of the below is a Grenache-based cru in the Southern Rhône?",
+    "options": [
+      "Châteauneuf-du-Pape AOC",
+      "Condrieu AOC",
+      "Hermitage AOC",
+      "Minervois AOC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 168,
+    "text": "The most powerful expression of Garnacha in Spain is from:",
+    "options": [
+      "Catalunya DO",
+      "Navarra DO",
+      "Priorat DOCa",
+      "Rioja DOCa"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 169,
+    "text": "Which of the following pairs of regions is home to many old vine Grenache?",
+    "options": [
+      "Barossa Valley and McLaren Vale",
+      "Casablanca Valley and Colchagua",
+      "Central Otago and Hawke’s Bay",
+      "Stellenbosch and Walker Bay"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 171,
+    "text": "Which term does not appear on a Spanish label?",
+    "options": [
+      "Classico",
+      "Gran Reserva",
+      "Reserva",
+      "None of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 172,
+    "text": "Which region is the most famous for Tempranillo-based wines in Spain?",
+    "options": [
+      "Catalunya DO",
+      "Priorat DOCa",
+      "Rías Baixas DO",
+      "Rioja DOCa"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 173,
+    "text": "In Spain, the term Crianza indicates a wine that will show the most prounced tertiary aromas.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 174,
+    "text": "In which region is Tempranillo very full-bodied and have dark fruit character?",
+    "options": [
+      "Rías Baixas DO",
+      "Ribera del Duero DO",
+      "Rioja DOCa",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 175,
+    "text": "Which is the correct order for aging minimums in Spain from shortest to longest?",
+    "options": [
+      "Crianza, Joven, Gran Reserva, Reserva",
+      "Gran Reserva, Reserva, Crianza, Joven",
+      "Joven, Crianza, Reserva, Gran Reserva",
+      "Reserva, Gran Reserva, Joven, Crianza"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 176,
+    "text": "A black grape unique in South Africa is:",
+    "options": [
+      "Barbera",
+      "Carmenère",
+      "Malbec",
+      "Pinotage"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 177,
+    "text": "Which variety native to southwest France is the most important black grape variety in Argentina?",
+    "options": [
+      "Carmenère",
+      "Grenache",
+      "Malbec",
+      "Pinotage"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 178,
+    "text": "Which variety native to Bordeaux is widely grown in Chile?",
+    "options": [
+      "Carmenère",
+      "Malbec",
+      "Pinotage",
+      "Sémillon"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 179,
+    "text": "Deeply coloured, high tannins, full body, and flavours of blackberry and eucalyptus best describes a:",
+    "options": [
+      "Carmenère",
+      "Malbec",
+      "Nebbiolo",
+      "Pinotage"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 180,
+    "text": "Pinotage is sometimes blended with Cabernet Sauvignon and Merlot to create:",
+    "options": [
+      "Amarone della Valpolicella",
+      "Cape Blends",
+      "Côtes du Rhône-Villages",
+      "Méthode Cap Classique"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 181,
+    "text": "Malbec is commonly blended with Garnacha in Mendoza.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 182,
+    "text": "The grape of Soave is:",
+    "options": [
+      "Cortese",
+      "Fiano",
+      "Garganega",
+      "Verdicchio"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 183,
+    "text": "Gavi DOCG is located in which part of Italy?",
+    "options": [
+      "Campania",
+      "Marche",
+      "Piemonte",
+      "Veneto"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 184,
+    "text": "The main grape of Gavi DOCG is:",
+    "options": [
+      "Cortese",
+      "Fiano",
+      "Garganega",
+      "Verdicchio"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 185,
+    "text": "Typical aromas and flavours of Fiano include:",
+    "options": [
+      "Blossom, pear, and vanilla",
+      "Lemon, fennel, and apple",
+      "Peach, melon, and mango",
+      "Strawberry, raspberry, and red cherry"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 186,
+    "text": "An important DOC in the Marche region is ___________ dei Castello di Jesi.",
+    "options": [
+      "Cortese",
+      "Garganega",
+      "Fiano",
+      "Verdicchio"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 187,
+    "text": "Soave wines are always white and can be either dry or sweet.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 188,
+    "text": "Which Italian white variety typically has the fuller body and lower acidity?",
+    "options": [
+      "Cortese",
+      "Garganega",
+      "Fiano",
+      "Verdicchio"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 189,
+    "text": "Which of the below is not a red wine from Piemonte?",
+    "options": [
+      "Brunello di Montalcino DOCG",
+      "Barolo DOCG",
+      "Barbera d’Asti DOCG",
+      "Barbaresco DOCG"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 190,
+    "text": "Which grape is used to make Barolo DOCG?",
+    "options": [
+      "Barbera",
+      "Corvina",
+      "Nebbiolo",
+      "Sangiovese"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 191,
+    "text": "High acidity, high tannins, with red-fruit, dried herbs, and floral aromas best describes a:",
+    "options": [
+      "Barbera",
+      "Corvina",
+      "Nebbiolo",
+      "Montepulciano"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 192,
+    "text": "A wine from Barbera d’Asti DOCG makes similarly powerful wines as a Barolo DOCG.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 193,
+    "text": "Which is the main grape of a Valpolicella blend?",
+    "options": [
+      "Barbera",
+      "Corvina",
+      "Garganega",
+      "Nebbiolo"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 194,
+    "text": "Which pair of wines are made using the appassimento method?",
+    "options": [
+      "Amarone della Valpolicella DOCG & Valpolicella Classico DOC",
+      "Recioto della Valpolicella DOCG & Amarone della Valpolicella DOCG",
+      "Valpolicella DOC & Valpolicella Classico DOC",
+      "Valpolicella Classico DOC & Recioto della Valpolicella DOCG"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 195,
+    "text": "In which region is Corvina most important?",
+    "options": [
+      "Abruzzo",
+      "Piemonte",
+      "Tuscany",
+      "Veneto"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 196,
+    "text": "The appassimento method creates sweet wines by:",
+    "options": [
+      "Botrytis fungus developing on the skins",
+      "Harvesting grapes later in the season",
+      "Freezing the grapes on the vines",
+      "Drying the grapes after the harvest"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 197,
+    "text": "Wines made from Barbera are typically more enjoyable at a younger stage than Nebbiolo.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 199,
+    "text": "The term Classico on an Italian label indicates:",
+    "options": [
+      "The wine is made from Sangiovese",
+      "The wine comes from a historic centre of a wine region",
+      "The wine has been aged for a minimum set number of months",
+      "Both the grape variety and the wine region"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 200,
+    "text": "The term riserva on an Italian wine label indicates:",
+    "options": [
+      "The wine has been aged for a set number of months",
+      "The wine is of a lower minimum alcohol",
+      "The wine is from the best vineyards",
+      "None of the above; it has no legal implications"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 201,
+    "text": "Chianti is dominated by which grape variety?",
+    "options": [
+      "Corvina",
+      "Montepulciano",
+      "Nebbiolo",
+      "Sangiovese"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 202,
+    "text": "Which of these wines is not made with Sangiovese?",
+    "options": [
+      "Chianti Classico",
+      "Brunello di Montalcino",
+      "Montepulciano d’Abruzzo",
+      "None of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 204,
+    "text": "Which of the following is not a wine made from Sangiovese?",
+    "options": [
+      "Chianti DOCG",
+      "Chianti Classico DOCG",
+      "Chianti Classico Riserva DOCG",
+      "Recioto di Chianti DOCG"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 205,
+    "text": "Montepulciano d’Abruzzo is a simple, fruity white wine from Abruzzo.",
+    "options": [
+      "True",
+      "False \n \n\n \n \n \nSection 4: Other Styles of Wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 206,
+    "text": "Broadly speaking, two categories of sparkling wine are:",
+    "options": [
+      "Barrel-fermented and Tank-fermented",
+      "Barrel-fermented and Bottle-fermented",
+      "Bottle-fermented and Tank-fermented",
+      "Bottle-fermented and Malolactic-fermented"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 207,
+    "text": "Generally speaking, how much will the alcohol of a base wine increase during second fermentation?",
+    "options": [
+      "1 – 2%",
+      "4 - 6%",
+      "10 - 12%",
+      "15 – 20%"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 208,
+    "text": "Stopping fermentation by filtering out the yeast results in a sparkling wine that is:",
+    "options": [
+      "Sweet with low alcohol",
+      "Sweet with high alcohol",
+      "Dry with low alcohol",
+      "Dry with high alcohol"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 209,
+    "text": "Which style of sparkling wine is not a tank-method sparkling wine?",
+    "options": [
+      "Asti",
+      "Cava",
+      "Prosecco",
+      "None of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 210,
+    "text": "Glera forms the base to which sparkling wine?",
+    "options": [
+      "Asti",
+      "Cava",
+      "Méthode Cap Classique",
+      "Prosecco"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 211,
+    "text": "Sweet, fruity, and light-bodied best describes which sparkling wine?",
+    "options": [
+      "Asti",
+      "Brut Champagne",
+      "Cava",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 212,
+    "text": "Which factor adds bready complexity to a bottle-fermented sparkling wine?",
+    "options": [
+      "Aging wines in oak barrels",
+      "Extended contact with dead yeast cells",
+      "Adding a mixture of sugar and yeasts",
+      "Adding a mixture of sugar and wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 213,
+    "text": "What is the correct order for the production of a bottle-fermented sparkling wine?",
+    "options": [
+      "Second-fermentation, yeast autolysis, disgorgement, dosage",
+      "Dosage, second-fermentation, yeast autolysis, disgorgement",
+      "Second-fermentation, disgorgement, dosage, yeast autolysis",
+      "Yeast autolysis, disgorgement, second-fermentation, dosage"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 4,
+    "text": "Yeast",
+    "options": [
+      "3 only",
+      "2 & 4",
+      "1, 2, & 4",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 215,
+    "text": "Biscuity, bready flavours in a bottle-fermented sparkling wine are described as:",
+    "options": [
+      "Frizzante",
+      "Autolytic",
+      "Dosage",
+      "Remuage"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 216,
+    "text": "“Riddling” refers to which part of the traditional method of making sparkling wine?",
+    "options": [
+      "Adding sugar and yeast to start a second-fermentation",
+      "Aging sparkling wines on their lees",
+      "Turning the bottles to collect yeast cells at the neck",
+      "Removing dead yeast cells and topping up with a sugar and wine mixture"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 217,
+    "text": "The purpose for disgorging a bottle-fermented wine is to:",
+    "options": [
+      "Add carbon-dioxide to the wine",
+      "Add extra levels of alcohol to the wine",
+      "Remove dead yeast cells",
+      "Remove surplus wine"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 218,
+    "text": "Which term refers to an automated system for riddling?",
+    "options": [
+      "Dosage",
+      "Gyropalette",
+      "Liqueuer d’expédition",
+      "Méthode traditionelle"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 219,
+    "text": "Base wines for sparkling wine are usually a blend from different:",
+    "options": [
+      "Grape varieties",
+      "Villages",
+      "Vineyards",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 220,
+    "text": "The term ‘brut’ refers to a sparkling wine that is:",
+    "options": [
+      "A blend of different vintages",
+      "Lightly-sparkling",
+      "Dry",
+      "Medium-sweet"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 221,
+    "text": "Which of the following is not a traditional method sparkling wine?",
+    "options": [
+      "Cava",
+      "Champagne",
+      "Méthode Cap Classique",
+      "Prosecco"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 222,
+    "text": "Which of the following is not a grape of Champagne?",
+    "options": [
+      "Chardonnay",
+      "Pinot Gris",
+      "Pinot Meunier",
+      "Pinot Noir"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 223,
+    "text": "Due to the very cool climate, most base wines in Champagne are:",
+    "options": [
+      "Low alcohol and high acidity",
+      "Low acidity and high alcohol",
+      "Low alcohol and low acidity",
+      "High alcohol and high acidity"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 224,
+    "text": "What is the minimum legal period for aging Champagne on its lees?",
+    "options": [
+      "6 months",
+      "12 months",
+      "24 months",
+      "36 months"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 225,
+    "text": "A Vintage Champagne is a blend of grapes harvested in different years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 226,
+    "text": "A sparkling wine labelled as Demi-sec is dryer than one labelled as Brut.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 227,
+    "text": "Cava refers to:",
+    "options": [
+      "A tank-fermented sparkling wine from Italy",
+      "A tank-fermented sparkling wine from Spain",
+      "A bottle-fermented sparkling wine from Italy",
+      "A bottle-fermented sparkling wine from Spain"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 228,
+    "text": "Which pair of French grapes are occasionally used in the production of Cava?",
+    "options": [
+      "Chardonnay and Pinot Noir",
+      "Chenin Blanc and Sémillon",
+      "Gewurztraminer and Viognier",
+      "Cabernet Sauvignon and Merlot"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 229,
+    "text": "Which grape variety is often used with Champagne varieties in South Africa?",
+    "options": [
+      "Chenin Blanc",
+      "Pinot Gris",
+      "Sauvignon Blanc",
+      "Semillon"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 230,
+    "text": "Which grape variety is popular in tank-fermented sparkling wines in such regions as California and Australia?",
+    "options": [
+      "Chardonnay",
+      "Chenin Blanc",
+      "Muscat",
+      "Pinot Noir"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 4,
+    "text": "They are both always red",
+    "options": [
+      "1 only",
+      "1 & 3",
+      "1, 2, & 4",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 232,
+    "text": "What is the name of the Spanish region that produces Sherry?",
+    "options": [
+      "Catalunya",
+      "Douro Valley",
+      "Jerez de la Frontera",
+      "Rioja"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 233,
+    "text": "Which of the following best describes the sweetness level of Sherry?",
+    "options": [
+      "Dry",
+      "Medium",
+      "Sweet",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 234,
+    "text": "The local white grape responsible for Sherry production is:",
+    "options": [
+      "Albariño",
+      "Flor",
+      "Palomino",
+      "Tempranillo"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 235,
+    "text": "What is the name of the aging technique responsible for producing Sherry?",
+    "options": [
+      "Gran Reserva",
+      "Malolactic Conversion",
+      "Solera System",
+      "Traditional Method"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 236,
+    "text": "Which style of sherry is does not show oxidative characters of walnuts and caramel?",
+    "options": [
+      "Amontillado",
+      "Cream",
+      "Fino",
+      "Oloroso"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 237,
+    "text": "What role does flor play in Sherry?",
+    "options": [
+      "It is a type of white, chalky soil unique to the region",
+      "It is a type of grape that is neutral in flavour",
+      "It is an aging process that allows for blending from many different vintages",
+      "It is a type of yeast that forms a protective layer on the wine"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 238,
+    "text": "Which of the following styles of Sherry is dry?",
+    "options": [
+      "Pale Cream",
+      "Medium",
+      "PX",
+      "None of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 239,
+    "text": "Which style of Sherry is refortified to 17% partway through the aging process?",
+    "options": [
+      "Amontillado",
+      "Fino",
+      "Pale Cream",
+      "Pedro Ximénez"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 240,
+    "text": "Which style of Sherry is both the name of a grape and a sweet, sun-dried wine?",
+    "options": [
+      "Amontillado",
+      "Oloroso",
+      "Palomino",
+      "Pedro Ximénez"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 241,
+    "text": "How does Port become a sweet wine?",
+    "options": [
+      "Fermentation is halted with the addition of alcohol",
+      "Noble rot affects ripe grapes on the vines",
+      "Red grapes are dried on straw mats to concentrate sugars",
+      "Unfermented grape juice is added to the final wine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 242,
+    "text": "Which style of Port is the most basic red?",
+    "options": [
+      "LBV",
+      "Tawny",
+      "Ruby",
+      "Vintage"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 243,
+    "text": "Which style of Port will have oxidative characters of walnut and caramel?",
+    "options": [
+      "Reserve Ruby",
+      "Vintage",
+      "LBV",
+      "Tawny"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 244,
+    "text": "Which style of Port is from a single year?",
+    "options": [
+      "20-Year Tawny",
+      "LBV",
+      "Ruby",
+      "Reserve Ruby"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 245,
+    "text": "Vintage Port is only produced in exceptional years.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a"
+  },
+  {
+    "id": 246,
+    "text": "A 20-Year Tawny indicates a wine that:",
+    "options": [
+      "Has matured in a Solera for an average of 20 years",
+      "Has matured in barrels for an average of 20 years",
+      "Is made from grapes harvested at least 20 years ago",
+      "Has the potential to age for 20 years"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 247,
+    "text": "Port is a sweet fortified wine from:",
+    "options": [
+      "Jerez de la Frontera in Spain",
+      "Northeastern Italy",
+      "The Southern Rhône in France",
+      "The Upper Douro in Portugal"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d"
+  },
+  {
+    "id": 248,
+    "text": "Which style of Port must be decanted?",
+    "options": [
+      "Reserve Ruby",
+      "Vintage",
+      "LBV",
+      "40-year Tawny"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  },
+  {
+    "id": 249,
+    "text": "Which of the following is not typical of Tawny Ports?",
+    "options": [
+      "The wine is aged in small barrels",
+      "The wine has oxidative characters",
+      "The wine comes from a single declared vintage",
+      "The wine is tawny in colour"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c"
+  },
+  {
+    "id": 250,
+    "text": "Port is sweetend with the addition of sweet wines made by sun-drying.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b"
+  }
+]

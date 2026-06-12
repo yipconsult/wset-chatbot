@@ -1,0 +1,1618 @@
+[
+  {
+    "id": 301,
+    "text": "Which climate generally produces grapes with higher acidity?",
+    "options": [
+      "Hot and dry",
+      "Cool and wet",
+      "Warm and sunny",
+      "Mediterranean Answer: B) Cool and wet Solution: Cool climates slow grape ripening, retaining higher acidity and lower sugar, which contributes to freshness and crispness in wine."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "text": "Malolactic fermentation in wine primarily converts:",
+    "options": [
+      "Sugars to alcohol",
+      "Tartaric acid to citric acid",
+      "Malic acid to lactic acid",
+      "Phenolics to tannins Answer: C) Malic acid to lactic acid Solution: This process softens the sharp malic acid, creating a creamier texture and is common in Chardonnay and many red wines."
+    ],
+    "correct_index": 2,
+    "correct_letter": "C",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "This process softens the sharp malic acid, creating a creamier texture and is common in Chardonnay and many red wines."
+  },
+  {
+    "id": 303,
+    "text": "Which grape is typically associated with Northern Rhône?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Syrah",
+      "Pinot Noir",
+      "Grenache Answer: B) Syrah Solution: Northern Rhône’s cooler climate allows Syrah to produce full-bodied wines with peppery aromas and structured tannins."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "text": "Which of the following is a fortified wine?",
+    "options": [
+      "Sauternes",
+      "Rioja Reserva",
+      "Port",
+      "Chianti Answer: C) Port Solution: Fortified wines have additional spirit added to increase alcohol and preserve sweetness; Port is a classic example."
+    ],
+    "correct_index": 2,
+    "correct_letter": "C",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "text": "In sparkling wine production, the “Traditional Method” involves:",
+    "options": [
+      "Single fermentation in tank",
+      "Secondary fermentation in bottle",
+      "Blending unfermented grape juice",
+      "Carbonation using CO₂ injection Answer: B) Secondary fermentation in bottle Solution: This method produces fine bubbles and autolytic flavors like toast, brioche, and nutty notes."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "text": "Which grape variety is most associated with Burgundy white wines?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling",
+      "Viognier Answer: B) Chardonnay Solution: Burgundy whites are predominantly Chardonnay, showing elegance, minerality, and potential for oak aging."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "text": "What is the main effect of oak aging on wine?",
+    "options": [
+      "Reduces alcohol",
+      "Increases acidity",
+      "Adds flavors like vanilla and spice",
+      "Converts sugars to alcohol Answer: C) Adds flavors like vanilla and spice Solution: Oak barrels contribute flavor compounds such as vanillin and toast and can soften tannins in red wines."
+    ],
+    "correct_index": 2,
+    "correct_letter": "C",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "text": "Which of the following regions is famous for producing Riesling?",
+    "options": [
+      "Rioja",
+      "Mosel",
+      "Barossa",
+      "Napa Valley Answer: B) Mosel Solution: Mosel Rieslings are high in acidity, light-bodied, with floral and citrus aromas, typical of cool climate whites."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "text": "A wine labeled “Reserva” in Spain indicates:",
+    "options": [
+      "Minimum 12 months aging in oak + bottle",
+      "No oak aging",
+      "Sparkling wine",
+      "Only red wines Answer: A) Minimum 12 months aging in oak + bottle Solution: Reserva wines are aged longer, resulting in more complexity than standard wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "text": "What is the typical aroma profile of Sauvignon Blanc from Marlborough, New Zealand?",
+    "options": [
+      "Tropical fruit, gooseberry, green bell pepper",
+      "Vanilla, butter, oak",
+      "Blackcurrant, cedar, green pepper",
+      "Cherry, plum, chocolate Answer: A) Tropical fruit, gooseberry, green bell pepper Solution: Cool-climate Sauvignon Blanc shows high acidity with intense fruit and herbaceous notes. Section A: Multiple Choice Questions (MCQs)"
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "text": "What is the typical aroma profile of Sauvignon Blanc from Marlborough, New Zealand?",
+    "options": [
+      "Tropical fruit, gooseberry, green bell pepper",
+      "Vanilla, butter, oak",
+      "Blackcurrant, cedar, green pepper",
+      "Cherry, plum, chocolate Answer: A) Tropical fruit, gooseberry, green bell pepper Solution: Marlborough’s cool climate produces high-acid Sauvignon Blanc with intense fruit and herbaceous notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Marlborough’s cool climate produces high-acid Sauvignon Blanc with intense fruit and herbaceous notes."
+  },
+  {
+    "id": 311,
+    "text": "Which region is most famous for high-quality Pinot Noir?",
+    "options": [
+      "Barossa Valley",
+      "Burgundy",
+      "Rioja",
+      "Napa Valley Answer: B) Burgundy Solution: Burgundy, particularly Côte de Nuits, produces elegant, complex Pinot Noir with red fruit, earth, and subtle spice."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "text": "What is the main purpose of yeast during fermentation?",
+    "options": [
+      "Convert sugar to alcohol",
+      "Add oak flavors",
+      "Increase acidity",
+      "Remove tannins Answer: A) Convert sugar to alcohol Solution: Yeast metabolizes grape sugars into alcohol and CO₂, producing the primary structure of wine."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "text": "Which grape is associated with Barolo?",
+    "options": [
+      "Nebbiolo",
+      "Sangiovese",
+      "Merlot",
+      "Tempranillo Answer: A) Nebbiolo Solution: Barolo, in Piedmont, Italy, is made from Nebbiolo, producing highly tannic wines with cherry and tar aromas."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "text": "Which wine is made using the fortification process?",
+    "options": [
+      "Chianti",
+      "Sherry",
+      "Sancerre",
+      "Chablis Answer: B) Sherry Solution: Sherry is fortified with grape spirit to raise alcohol and preserve the wine; styles range from dry (Fino) to sweet (Pedro Ximénez)."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "text": "Which winemaking process reduces acidity in white wine?",
+    "options": [
+      "Carbonic maceration",
+      "Malolactic fermentation",
+      "Fortification",
+      "Filtration Answer: B) Malolactic fermentation Solution: Converts malic acid to softer lactic acid, producing creamier texture and reducing sharpness."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "text": "Which factor most influences tannin development in red wine?",
+    "options": [
+      "Oak aging",
+      "Grape ripeness",
+      "Bottle closure",
+      "Fermentation temperature Answer: B) Grape ripeness Solution: Tannins develop as grapes ripen; underripe grapes yield harsher tannins, fully ripe grapes produce smoother tannins."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "text": "Which region is famous for Shiraz/Syrah in Australia?",
+    "options": [
+      "Barossa Valley",
+      "Hunter Valley",
+      "Yarra Valley",
+      "Margaret River Answer: A) Barossa Valley Solution: Barossa’s warm climate produces rich, full-bodied Shiraz with dark fruit and spice."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "text": "Which grape is traditionally used in Chianti?",
+    "options": [
+      "Sangiovese",
+      "Nebbiolo",
+      "Barbera",
+      "Pinot Noir Answer: A) Sangiovese Solution: Sangiovese dominates Chianti wines, contributing high acidity, red fruit, and firm tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "text": "Which white grape is used in Alsace’s dry white wines?",
+    "options": [
+      "Chardonnay",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Chenin Blanc Answer: B) Riesling Solution: Alsace Rieslings are dry, aromatic, high in acidity, and display citrus, floral, and mineral notes."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "text": "Which factor affects the color intensity of red wine?",
+    "options": [
+      "Oak type",
+      "Skin contact duration",
+      "Bottle shape",
+      "Fermentation vessel Answer: B) Skin contact duration Solution: Pigments (anthocyanins) are extracted from skins; longer maceration produces deeper color."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Pigments (anthocyanins) are extracted from skins; longer maceration produces deeper color."
+  },
+  {
+    "id": 321,
+    "text": "What is the primary purpose of blending wines?",
+    "options": [
+      "Increase sugar",
+      "Correct acidity and improve consistency",
+      "Reduce alcohol",
+      "Add oak flavors Answer: B) Correct acidity and improve consistency Solution: Winemakers blend wines from different vineyards, grape varieties, or vintages for balance, flavor complexity, and consistency."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "text": "Which grape is most associated with Rioja red wines?",
+    "options": [
+      "Tempranillo",
+      "Garnacha",
+      "Syrah",
+      "Barbera Answer: A) Tempranillo Solution: Tempranillo provides structure, cherry fruit, and aging potential; often blended with Garnacha."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "text": "What does “cru” indicate in Burgundy?",
+    "options": [
+      "Wine style",
+      "Vineyard quality",
+      "Grape variety",
+      "Aging process Answer: B) Vineyard quality Solution: “Cru” denotes vineyard classification: Premier Cru or Grand Cru, indicating higher-quality production."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "text": "Which white wine often undergoes sur lie aging?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Pinot Grigio Answer: A) Chardonnay Solution: Aging on lees (sur lie) adds texture, creaminess, and complexity to white wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "text": "Which climate condition generally produces fuller-bodied wines?",
+    "options": [
+      "Cool",
+      "Moderate",
+      "Warm",
+      "Wet Answer: C) Warm Solution: Warm climates increase sugar accumulation in grapes, resulting in higher alcohol and fuller body."
+    ],
+    "correct_index": 2,
+    "correct_letter": "C",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "text": "Which Italian sparkling wine uses the Traditional Method?",
+    "options": [
+      "Prosecco",
+      "Franciacorta",
+      "Lambrusco",
+      "Asti Answer: B) Franciacorta Solution: Franciacorta employs secondary fermentation in the bottle, producing fine bubbles similar to Champagne."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "text": "Which factor most influences aroma intensity in white wines?",
+    "options": [
+      "Oak aging",
+      "Harvest ripeness",
+      "Bottle shape",
+      "Fermentation vessel Answer: B) Harvest ripeness Solution: Aroma compounds develop as grapes ripen; under-ripe grapes yield weak aroma, fully ripe grapes produce intense fruit expression."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "text": "Which wine is typically made from partially dried grapes?",
+    "options": [
+      "Vin Santo",
+      "Chianti",
+      "Chablis",
+      "Barolo Answer: A) Vin Santo Solution: Grapes are dried (appassimento) to concentrate sugars and flavors, producing sweet dessert wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "text": "Which factor contributes to bitterness in wine?",
+    "options": [
+      "Residual sugar",
+      "Tannins from skins/seeds",
+      "Alcohol",
+      "Carbonation Answer: B) Tannins from skins/seeds Solution: Tannins provide bitterness, structure, and aging potential in red wines."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "text": "Which grape variety is used in Sancerre?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Chenin Blanc",
+      "Riesling Answer: B) Sauvignon Blanc Solution: Sancerre wines are crisp, aromatic, and high in acidity, typical of Loire Sauvignon Blanc."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "text": "Which red grape variety is most commonly used in Châteauneuf-du-Pape?",
+    "options": [
+      "Syrah",
+      "Grenache",
+      "Pinot Noir",
+      "Cabernet Sauvignon Answer: B) Grenache Solution: Grenache is the dominant grape in Châteauneuf-du-Pape, often blended with Syrah and Mourvèdre, producing rich, spicy red wines."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "text": "What is the primary effect of lees aging on white wine?",
+    "options": [
+      "Increases acidity",
+      "Adds creaminess and texture",
+      "Reduces alcohol",
+      "Enhances tannins Answer: B) Adds creaminess and texture Solution: Sur lie (lees) aging releases mannoproteins, enhancing mouthfeel and adding subtle yeasty notes."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "text": "Which factor is most important for the development of botrytis in sweet wines?",
+    "options": [
+      "Warm, dry conditions",
+      "Damp mornings with dry afternoons",
+      "Cool, windy conditions",
+      "Hot, sunny conditions Answer: B) Damp mornings with dry afternoons Solution: Botrytis cinerea (“noble rot”) develops under humid mornings, then dries in the sun, concentrating sugars for sweet wines like Sauternes."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Botrytis cinerea (“noble rot”) develops under humid mornings, then dries in the sun, concentrating sugars for sweet wines like Sauternes."
+  },
+  {
+    "id": 334,
+    "text": "Which wine region is known for high-quality Tempranillo?",
+    "options": [
+      "Rioja",
+      "Mosel",
+      "Barossa",
+      "Burgundy Answer: A) Rioja Solution: Tempranillo is Spain’s signature grape, giving wines structure, red fruit, and aging potential."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "text": "Which winemaking technique can reduce alcohol content in wine?",
+    "options": [
+      "Late harvest",
+      "Early harvest",
+      "Oak aging",
+      "Malolactic fermentation Answer: B) Early harvest Solution: Harvesting grapes earlier yields lower sugar levels, producing wines with lower alcohol."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "text": "Which grape variety is dominant in white Bordeaux blends?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling",
+      "Chenin Blanc Answer: A) Sauvignon Blanc Solution: Sauvignon Blanc provides acidity, aromatic intensity, and freshness in Bordeaux white blends, often combined with Sémillon."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "text": "Which wine is made from partially dried grapes in Italy?",
+    "options": [
+      "Barolo",
+      "Amarone",
+      "Prosecco",
+      "Chianti Answer: B) Amarone Solution: Amarone uses appassimento (partially dried grapes), concentrating sugar and flavor for a rich, full-bodied wine."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "text": "Which factor influences the body of a wine?",
+    "options": [
+      "Alcohol, sugar, glycerol, and extract",
+      "Bottle shape",
+      "Cork type",
+      "Harvest date alone Answer: A) Alcohol, sugar, glycerol, and extract Solution: These components contribute to perceived fullness and weight on the palate."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "text": "Which white wine region is known for high acidity and citrus aromas?",
+    "options": [
+      "Marlborough, New Zealand",
+      "Napa Valley, USA",
+      "Barossa Valley, Australia",
+      "Tuscany, Italy Answer: A) Marlborough, New Zealand Solution: Cool climate Sauvignon Blanc from Marlborough has high acidity and pronounced citrus and tropical fruit aromas."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "text": "Which factor affects tannin quality in red wines?",
+    "options": [
+      "Sunlight exposure and grape ripeness",
+      "Bottle color",
+      "Filtration method",
+      "Oak type only Answer: A) Sunlight exposure and grape ripeness Solution: Adequate sunlight ensures phenolic ripeness, producing softer, smoother tannins; insufficient ripeness yields harsh, green tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "text": "Which grape is used in German Spätlese wines?",
+    "options": [
+      "Riesling",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Chenin Blanc Answer: A) Riesling Solution: Spätlese (“late harvest”) wines are made from Riesling grapes harvested later, producing richer, sweeter wines while retaining high acidity."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 342,
+    "text": "Which of the following is a sparkling wine from Italy?",
+    "options": [
+      "Champagne",
+      "Prosecco",
+      "Cava",
+      "Sekt Answer: B) Prosecco Solution: Prosecco from Veneto is typically made using the tank (Charmat) method, producing light, aromatic bubbles."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 343,
+    "text": "What is the main aroma characteristic of Chardonnay from Chablis?",
+    "options": [
+      "Tropical fruit",
+      "Citrus, green apple, and flinty notes",
+      "Blackcurrant",
+      "Vanilla and butter Answer: B) Citrus, green apple, and flinty notes Solution: Chablis wines are high in acidity, with lean, mineral-driven profiles typical of cool climate Chardonnay."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 344,
+    "text": "Which wine is traditionally fortified and aged under flor?",
+    "options": [
+      "Port",
+      "Sherry Fino",
+      "Madeira",
+      "Marsala Answer: B) Sherry Fino Solution: Fino Sherry develops under a layer of flor yeast, giving nutty, fresh, and saline flavors while remaining dry."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 345,
+    "text": "Which grape is used in Barossa Shiraz?",
+    "options": [
+      "Syrah",
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Grenache Answer: A) Syrah Solution: Barossa Shiraz is rich, full-bodied, with dark fruit, chocolate, and spice notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 346,
+    "text": "Which factor contributes most to acidity in wines?",
+    "options": [
+      "Cool climate and early harvest",
+      "Oak aging",
+      "Malolactic fermentation",
+      "Grape skin thickness Answer: A) Cool climate and early harvest Solution: Cooler climates slow sugar accumulation, preserving natural acidity; early harvest maintains sharpness."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 347,
+    "text": "Which white grape is primarily used in Sauternes?",
+    "options": [
+      "Sauvignon Blanc",
+      "Sémillon",
+      "Chardonnay",
+      "Muscat Answer: B) Sémillon Solution: Sauternes wines are botrytized, sweet, and rich; Sémillon provides texture and flavor concentration."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Sauternes wines are botrytized, sweet, and rich; Sémillon provides texture and flavor concentration."
+  },
+  {
+    "id": 348,
+    "text": "Which region is famous for Cabernet Sauvignon-dominated blends?",
+    "options": [
+      "Napa Valley",
+      "Chablis",
+      "Mosel",
+      "Barossa Valley Answer: A) Napa Valley Solution: Napa Cabernet Sauvignon is structured, full-bodied, with blackcurrant, cedar, and oak influences."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 349,
+    "text": "Which method is used to produce Prosecco?",
+    "options": [
+      "Tank (Charmat) method",
+      "Traditional (bottle) method",
+      "Carbonation injection",
+      "Fortification Answer: A) Tank (Charmat) method Solution: Secondary fermentation occurs in large stainless steel tanks, producing fresh, aromatic sparkling wines efficiently."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 350,
+    "text": "Which of the following increases wine body?",
+    "options": [
+      "Higher alcohol, sugar, and glycerol",
+      "Lower acidity only",
+      "Short maceration",
+      "Filtration Answer: A) Higher alcohol, sugar, and glycerol Solution: These components add weight and fullness to the palate, creating a fuller-bodied wine."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "These components add weight and fullness to the palate, creating a fuller-bodied wine."
+  },
+  {
+    "id": 351,
+    "text": "Which grape variety is commonly used in New Zealand Sauvignon Blanc?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Pinot Gris Answer: B) Sauvignon Blanc Solution: New Zealand Sauvignon Blanc is known for high acidity, tropical fruit, and herbaceous flavors, especially from Marlborough."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 352,
+    "text": "What is the main effect of extended maceration in red wine?",
+    "options": [
+      "Increases sugar",
+      "Enhances tannin extraction and color",
+      "Reduces acidity",
+      "Adds carbonation Answer: B) Enhances tannin extraction and color Solution: Longer contact with skins increases extraction of phenolics, deepening color and structure."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 353,
+    "text": "Which Italian region is known for Amarone wines?",
+    "options": [
+      "Veneto",
+      "Tuscany",
+      "Piedmont",
+      "Sicily Answer: A) Veneto Solution: Amarone della Valpolicella is made from partially dried grapes (appassimento), producing rich, full-bodied wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 354,
+    "text": "Which factor most affects sweetness in wine?",
+    "options": [
+      "Residual sugar",
+      "Alcohol",
+      "Tannins",
+      "Carbonation Answer: A) Residual sugar Solution: Sweetness perception comes from unfermented sugar remaining in the wine after fermentation."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 355,
+    "text": "Which grape is dominant in Chablis?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Pinot Gris Answer: A) Chardonnay Solution: Chablis produces lean, high-acid Chardonnay with citrus, green apple, and flinty notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 356,
+    "text": "Which of the following is an effect of oak aging on red wine?",
+    "options": [
+      "Increases acidity",
+      "Adds vanilla, spice, and toast flavors",
+      "Reduces tannins",
+      "Lowers alcohol Answer: B) Adds vanilla, spice, and toast flavors Solution: Oak barrels release flavor compounds and can integrate tannins for complexity."
+    ],
+    "correct_index": 1,
+    "correct_letter": "B",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Oak barrels release flavor compounds and can integrate tannins for complexity."
+  },
+  {
+    "id": 357,
+    "text": "Which region is famous for high-quality Riesling?",
+    "options": [
+      "Mosel, Germany",
+      "Rioja, Spain",
+      "Barossa, Australia",
+      "Bordeaux, France Answer: A) Mosel, Germany Solution: Mosel Rieslings are light-bodied, aromatic, high in acidity, with citrus and floral notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 358,
+    "text": "Which winemaking process softens acidity in wine?",
+    "options": [
+      "Malolactic fermentation",
+      "Carbonic maceration",
+      "Cold stabilization",
+      "Filtration Answer: A) Malolactic fermentation Solution: Converts malic acid to lactic acid, producing creamier, softer wines, often used in Chardonnay and reds."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 359,
+    "text": "Which grape is used in Barolo?",
+    "options": [
+      "Nebbiolo",
+      "Sangiovese",
+      "Merlot",
+      "Cabernet Sauvignon Answer: A) Nebbiolo Solution: Nebbiolo produces highly tannic, aromatic wines with red fruit, floral, and tar notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 360,
+    "text": "Which grape is typical of Northern Rhône red wines?",
+    "options": [
+      "Syrah",
+      "Grenache",
+      "Pinot Noir",
+      "Cabernet Sauvignon Answer: A) Syrah Solution: Northern Rhône Syrah is structured with black fruit, pepper, and firm tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 361,
+    "text": "Which grape dominates Rioja red wines?",
+    "options": [
+      "Tempranillo",
+      "Garnacha",
+      "Syrah",
+      "Cabernet Sauvignon Answer: A) Tempranillo Solution: Tempranillo provides structure, cherry, and aging potential; often blended with Garnacha."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Tempranillo provides structure, cherry, and aging potential; often blended with Garnacha."
+  },
+  {
+    "id": 362,
+    "text": "Which winemaking technique produces sparkling wine in bottle?",
+    "options": [
+      "Traditional method",
+      "Tank (Charmat) method",
+      "Carbonation injection",
+      "Fortification Answer: A) Traditional method Solution: Secondary fermentation in the bottle produces fine bubbles and autolytic flavors (toast, brioche)."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 363,
+    "text": "Which grape is used in Sancerre?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Chenin Blanc",
+      "Riesling Answer: A) Sauvignon Blanc Solution: Loire Sauvignon Blanc, crisp, high-acid, with citrus and green fruit aromas."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 364,
+    "text": "Which factor contributes most to wine body?",
+    "options": [
+      "Alcohol, sugar, glycerol, extract",
+      "Bottle color",
+      "Cork type",
+      "Filtration Answer: A) Alcohol, sugar, glycerol, extract Solution: These components determine perceived fullness and weight on the palate."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 365,
+    "text": "Which grape is used in Amarone della Valpolicella?",
+    "options": [
+      "Corvina, Rondinella, Molinara",
+      "Sangiovese",
+      "Nebbiolo",
+      "Barbera Answer: A) Corvina, Rondinella, Molinara Solution: Grapes are partially dried (appassimento) to concentrate sugars and flavors for rich, full-bodied wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 366,
+    "text": "Which process produces “Fino” Sherry?",
+    "options": [
+      "Fortification and aging under flor",
+      "Carbonation",
+      "Oak aging only",
+      "Fermentation in tank Answer: A) Fortification and aging under flor Solution: Flor yeast layer protects the wine and imparts fresh, nutty flavors."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Flor yeast layer protects the wine and imparts fresh, nutty flavors."
+  },
+  {
+    "id": 367,
+    "text": "Which factor increases wine tannin quality?",
+    "options": [
+      "Adequate sunlight and ripeness",
+      "Cold climate only",
+      "Short maceration",
+      "Filtration Answer: A) Adequate sunlight and ripeness Solution: Proper ripeness ensures phenolic maturity, producing soft, integrated tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 368,
+    "text": "Which white grape is dominant in Bordeaux blends?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling",
+      "Chenin Blanc Answer: A) Sauvignon Blanc Solution: Often blended with Sémillon for structure, aroma, and aging potential."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 369,
+    "text": "Which winemaking method is used for Prosecco?",
+    "options": [
+      "Tank (Charmat) method",
+      "Traditional (bottle) method",
+      "Carbonation injection",
+      "Fortification Answer: A) Tank (Charmat) method Solution: Secondary fermentation occurs in tanks, producing fresh, aromatic bubbles."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 370,
+    "text": "Which grape is used in Barossa Shiraz?",
+    "options": [
+      "Syrah",
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Grenache Answer: A) Syrah Solution: Warm climate Barossa Shiraz is rich, full-bodied, with dark fruit, spice, and chocolate notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 371,
+    "text": "Which factor affects color extraction in red wines?",
+    "options": [
+      "Skin contact duration",
+      "Oak aging",
+      "Bottle shape",
+      "Filtration Answer: A) Skin contact duration Solution: Anthocyanins from skins determine color; longer maceration gives deeper color."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Anthocyanins from skins determine color; longer maceration gives deeper color."
+  },
+  {
+    "id": 372,
+    "text": "Which factor increases wine sweetness perception?",
+    "options": [
+      "Residual sugar",
+      "Alcohol only",
+      "Tannins",
+      "Carbonation Answer: A) Residual sugar Solution: Sweetness comes from unfermented sugar left in the wine."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 373,
+    "text": "Which grape is used in German Spätlese wines?",
+    "options": [
+      "Riesling",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Chenin Blanc Answer: A) Riesling Solution: Late-harvest Riesling produces sweeter wines while retaining high acidity."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 374,
+    "text": "Which climate produces high-acid, light-bodied wines?",
+    "options": [
+      "Cool",
+      "Warm",
+      "Mediterranean",
+      "Hot and dry Answer: A) Cool Solution: Cooler climates slow sugar accumulation, preserving acidity and producing lighter wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 375,
+    "text": "Which grape is used in Châteauneuf-du-Pape reds?",
+    "options": [
+      "Grenache",
+      "Syrah",
+      "Mourvèdre",
+      "All of the above Answer: D) All of the above Solution: Châteauneuf-du-Pape blends multiple varieties, with Grenache dominant, supported by Syrah and Mourvèdre."
+    ],
+    "correct_index": 3,
+    "correct_letter": "D",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 376,
+    "text": "Which grape is used in Amarone?",
+    "options": [
+      "Corvina",
+      "Sangiovese",
+      "Nebbiolo",
+      "Merlot Answer: A) Corvina Solution: Corvina and supporting grapes are dried (appassimento) to concentrate sugar and flavors."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 377,
+    "text": "Which winemaking technique reduces acidity?",
+    "options": [
+      "Malolactic fermentation",
+      "Cold stabilization",
+      "Filtration",
+      "Carbonation Answer: A) Malolactic fermentation Solution: Converts malic acid to lactic acid, softening sharpness."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 378,
+    "text": "Which factor contributes to aroma intensity in white wine?",
+    "options": [
+      "Harvest ripeness",
+      "Bottle shape",
+      "Cork type",
+      "Filtration Answer: A) Harvest ripeness Solution: Fully ripe grapes develop higher levels of aromatic compounds."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 379,
+    "text": "Which grape is used in Sancerre?",
+    "options": [
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Riesling",
+      "Chenin Blanc Answer: A) Sauvignon Blanc Solution: Loire Sauvignon Blanc is crisp, high-acid, and aromatic."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 380,
+    "text": "Which grape dominates Chianti wines?",
+    "options": [
+      "Sangiovese",
+      "Nebbiolo",
+      "Merlot",
+      "Cabernet Sauvignon Answer: A) Sangiovese Solution: Sangiovese provides high acidity, firm tannins, and red fruit character."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 381,
+    "text": "Which climate produces wines with higher alcohol?",
+    "options": [
+      "Warm",
+      "Cool",
+      "Mediterranean",
+      "High rainfall Answer: A) Warm Solution: Warm climates increase sugar accumulation, leading to higher alcohol."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 382,
+    "text": "Which factor influences tannin quality?",
+    "options": [
+      "Ripeness and sunlight exposure",
+      "Bottle color",
+      "Oak type only",
+      "Filtration Answer: A) Ripeness and sunlight exposure Solution: Adequate ripening ensures soft, integrated tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 383,
+    "text": "Which grape is used in Mosel Riesling?",
+    "options": [
+      "Riesling",
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Chenin Blanc Answer: A) Riesling Solution: Cool climate Riesling produces light-bodied, high-acid, aromatic wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 384,
+    "text": "Which winemaking method produces Champagne?",
+    "options": [
+      "Traditional (bottle) method",
+      "Tank (Charmat) method",
+      "Carbonation injection",
+      "Fortification Answer: A) Traditional (bottle) method Solution: Secondary fermentation in bottle creates fine bubbles and autolytic flavors."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 385,
+    "text": "Which grape is used in Fino Sherry?",
+    "options": [
+      "Palomino",
+      "Sémillon",
+      "Chardonnay",
+      "Sauvignon Blanc Answer: A) Palomino Solution: Fino Sherry develops flor yeast, giving fresh, nutty characteristics."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 386,
+    "text": "Which factor affects body in wine?",
+    "options": [
+      "Alcohol, sugar, glycerol",
+      "Bottle color",
+      "Cork type",
+      "Filtration Answer: A) Alcohol, sugar, glycerol Solution: These components increase perceived weight and fullness on the palate."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 387,
+    "text": "Which Italian region is known for Nebbiolo?",
+    "options": [
+      "Piedmont",
+      "Tuscany",
+      "Veneto",
+      "Sicily Answer: A) Piedmont Solution: Nebbiolo produces Barolo and Barbaresco, known for tannic, aromatic reds."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 388,
+    "text": "Which grape is used in Barossa Shiraz?",
+    "options": [
+      "Syrah",
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Grenache Answer: A) Syrah Solution: Warm climate Shiraz produces rich, full-bodied, spicy wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 389,
+    "text": "Which factor contributes to color intensity in red wines?",
+    "options": [
+      "Skin contact",
+      "Bottle closure",
+      "Oak aging",
+      "Filtration Answer: A) Skin contact Solution: Anthocyanins are extracted from skins; longer maceration increases color."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 390,
+    "text": "Which factor contributes to bitterness in wine?",
+    "options": [
+      "Tannins",
+      "Sugar",
+      "Alcohol",
+      "Carbonation Answer: A) Tannins Solution: Tannins from skins and seeds contribute bitterness, structure, and aging potential."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 391,
+    "text": "Which white grape is used in Sauternes?",
+    "options": [
+      "Sémillon",
+      "Sauvignon Blanc",
+      "Chardonnay",
+      "Muscat Answer: A) Sémillon Solution: Sémillon provides body and sweetness for botrytized wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 392,
+    "text": "Which region is famous for Cabernet Sauvignon-dominated wines?",
+    "options": [
+      "Napa Valley",
+      "Chablis",
+      "Mosel",
+      "Barossa Answer: A) Napa Valley Solution: Napa Cabernet Sauvignon is full-bodied with blackcurrant, oak, and aging potential."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 393,
+    "text": "Which sparkling wine is made using the Charmat method?",
+    "options": [
+      "Prosecco",
+      "Champagne",
+      "Cava",
+      "Sekt Answer: A) Prosecco Solution: Secondary fermentation occurs in stainless steel tanks for fresh, aromatic bubbles."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 394,
+    "text": "Which grape is dominant in Chablis?",
+    "options": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Riesling",
+      "Pinot Gris Answer: A) Chardonnay Solution: Chablis produces high-acid, lean Chardonnay with citrus and flinty notes."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 395,
+    "text": "Which fortified wine is aged under flor?",
+    "options": [
+      "Fino Sherry",
+      "Port",
+      "Madeira",
+      "Marsala Answer: A) Fino Sherry Solution: Flor yeast protects the wine and imparts fresh, nutty flavors."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 396,
+    "text": "Which grape dominates Chianti wines?",
+    "options": [
+      "Sangiovese",
+      "Nebbiolo",
+      "Merlot",
+      "Cabernet Sauvignon Answer: A) Sangiovese Solution: Provides red fruit, high acidity, and firm tannins."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 397,
+    "text": "Which climate produces high-acid, light-bodied wines?",
+    "options": [
+      "Cool",
+      "Warm",
+      "Mediterranean",
+      "Hot and dry Answer: A) Cool Solution: Cool climates slow sugar accumulation, preserving acidity."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 398,
+    "text": "Which grape is used in Amarone della Valpolicella?",
+    "options": [
+      "Corvina",
+      "Sangiovese",
+      "Nebbiolo",
+      "Merlot Answer: A) Corvina Solution: Appassimento drying concentrates sugars and flavors."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 399,
+    "text": "Which process softens wine acidity?",
+    "options": [
+      "Malolactic fermentation",
+      "Cold stabilization",
+      "Filtration",
+      "Carbonation Answer: A) Malolactic fermentation Solution: Converts malic acid to lactic acid, producing creamier wines."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": ""
+  },
+  {
+    "id": 400,
+    "text": "Which factor contributes most to aroma intensity in white wines?",
+    "options": [
+      "Harvest ripeness",
+      "Bottle shape",
+      "Cork type",
+      "Filtration Answer: A) Harvest ripeness Solution: Fully ripe grapes develop higher levels of aromatic compounds."
+    ],
+    "correct_index": 0,
+    "correct_letter": "A",
+    "topic": "general",
+    "difficulty": "L3",
+    "level": "L3",
+    "explanation": "Fully ripe grapes develop higher levels of aromatic compounds."
+  }
+]

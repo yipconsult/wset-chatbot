@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 601,
+    "text": "Which of the following is NOT a type of wine?",
+    "options": [
+      "Fortified Wine",
+      "Light Wine",
+      "Sparkling Wine",
+      "Sweet Wine"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 602,
+    "text": "What of the following is TRUE about all Light Wines? They are all dry The range of alcohol is 11% - 18% No spirit has been added It is still",
+    "options": [
+      "1, 3, and 4",
+      "2 only",
+      "3 and 4 only",
+      "All of the above"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 603,
+    "text": "Fino Sherry is a dry wine",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 604,
+    "text": "Which of the following pairs are BOTH Fortified Wines?",
+    "options": [
+      "Port and Madeira",
+      "Sherry and Sancerre",
+      "Port and Amarone",
+      "Cava and Icewine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 605,
+    "text": "Which type of wine is a Sauternes?",
+    "options": [
+      "Fortified",
+      "Light",
+      "Sparkling",
+      "Sweet"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 606,
+    "text": "Which type of wine is Asti from Italy?",
+    "options": [
+      "Fortified",
+      "Light",
+      "Sparkling",
+      "Sweet"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "general",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 607,
+    "text": "Which type of wine is a Châteauneuf-du-Pape?",
+    "options": [
+      "Fortified",
+      "Light",
+      "Red",
+      "Sparkling"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 608,
+    "text": "Which of the following determines the colour of a wine? Alcohol Degree Grape Type Vintage Winemaking",
+    "options": [
+      "1, 2, and 4",
+      "2 and 4 only",
+      "2 only",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 609,
+    "text": "Which gives colour to a red wine?",
+    "options": [
+      "Pips",
+      "Pulp",
+      "Skin",
+      "Stalk"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 610,
+    "text": "White wine can be made from black grapes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 611,
+    "text": "Rosé wines usually have more body than white wines",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 612,
+    "text": "Which of the following are ways a winemaker can make a medium sweet wine? Add unfermented grape juice to dry wine Add grape spirit to the fermenting wine Remove yeast during fermentation Nothing – the winemaker does not influence sweetness in the wine",
+    "options": [
+      "All of the above",
+      "1, 2, and 3",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 613,
+    "text": "Where in your mouth do you first perceive sweetness?",
+    "options": [
+      "Tip of the tongue",
+      "Top of the teeth and gums",
+      "Sides of the mouth",
+      "Back of the palate"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 614,
+    "text": "Why is acidity important for sweet wines?",
+    "options": [
+      "It adds extra body to the wine",
+      "It prevents the wine from being cloying",
+      "It enhances the fruity character of the wine",
+      "It makes the wine seem less alcoholic"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 615,
+    "text": "What effect does sweetness have on the body of a wine?",
+    "options": [
+      "Sweetness makes the wine thicker",
+      "Sweetness makes the wine lighter",
+      "Sweetness makes the wine more acidic",
+      "Sweetness makes the wine less acidic"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 616,
+    "text": "Which sweetness level is a White Zinfandel?",
+    "options": [
+      "Dry",
+      "Medium",
+      "Sweet"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 617,
+    "text": "Which of the following is an example of a light-bodied red wine?",
+    "options": [
+      "Australian Shiraz",
+      "Beaujolais",
+      "Chilean Merlot"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 618,
+    "text": "Oaked California Chardonnay is an example of:",
+    "options": [
+      "Light-bodied white wine",
+      "Medium-bodied white wine",
+      "Full-bodied white wine"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 619,
+    "text": "Which 2 factors contribute to the body of a wine?",
+    "options": [
+      "Acidity and fruit character",
+      "Sugar ripeness and use of oak",
+      "Grape variety and colour"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 620,
+    "text": "White Burgundy is an example of:",
+    "options": [
+      "A light-bodied wine",
+      "A medium-bodied wine",
+      "A full-bodied wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 621,
+    "text": "A white wine that spends time in oak barrels will gain vanilla flavours.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 622,
+    "text": "Which of the following does oak add to a wine? Alcohol Flavour Tannin Texture",
+    "options": [
+      "2, 3, and 4",
+      "2 only",
+      "1 and 3",
+      "All of the above"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 623,
+    "text": "How is tannin perceived in your mouth?",
+    "options": [
+      "A burning sensation on the palate",
+      "A mouth-drying sensation",
+      "A mouth-watering sensation",
+      "A sticky sensation on the front of the tongue"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 624,
+    "text": "Where does tannin come from?",
+    "options": [
+      "Grape skins",
+      "Grape pulp",
+      "Grape pips"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 625,
+    "text": "Which of the following does tannin contribute to a wine? Ability to age Complexity Length Structure",
+    "options": [
+      "2 only",
+      "1 and 3 only",
+      "1, 2, and 4",
+      "1, 3, and 4"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 626,
+    "text": "How is acidity perceived in the mouth?",
+    "options": [
+      "A burning sensation on the palate",
+      "A mouth-drying sensation",
+      "A mouth-watering sensation",
+      "A sticky sensation on the front of the tongue"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 627,
+    "text": "Acidity helps a wine mature.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 628,
+    "text": "At what alcohol % does yeast die?",
+    "options": [
+      "8%",
+      "15%",
+      "18%",
+      "22%"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 629,
+    "text": "What does the term “body” refer to in wine?",
+    "options": [
+      "The balance of acidity and sweetness in the wine",
+      "The complexity of flavour in the wine",
+      "The degree of alcohol in the wine",
+      "The general feel of the wine in the mouth"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 630,
+    "text": "When are grapes pressed off their skins when making a white wine?",
+    "options": [
+      "Before fermentation",
+      "After fermentation"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 631,
+    "text": "Which of the following is an example of a full-bodied red wine?",
+    "options": [
+      "Australian Shiraz",
+      "Oaked Chardonnay",
+      "Chilean Merlot"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Styles of Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 632,
+    "text": "Tannin is a flavour in wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 633,
+    "text": "Which factors are important to have in order to ripen grapes? Carbon Dioxide Heat Sunshine Water",
+    "options": [
+      "4 only",
+      "1 and 2",
+      "1, 3, and 4",
+      "2 and 3"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 634,
+    "text": "As the season continues:",
+    "options": [
+      "Acidity levels increase and sugar levels decrease",
+      "Acidity levels decrease and sugar levels increase",
+      "Acidity and sugar levels both increase",
+      "Acidity and sugar levels both decrease"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 635,
+    "text": "A wine made from under-ripe grapes will taste:",
+    "options": [
+      "Alcoholic and flabby",
+      "Alcoholic and thin",
+      "Sour and flabby",
+      "Sour and thin"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 636,
+    "text": "A wine that tastes alcoholic and flabby comes from which weather conditions?",
+    "options": [
+      "Too much sunlight and heat",
+      "Not enough sunlight and heat",
+      "Too much water and not enough sunlight",
+      "Not enough water and not enough heat"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 637,
+    "text": "Which of the following best describes climate?",
+    "options": [
+      "A latitude range of 30º - 50º north or south of the Equator",
+      "The amount of rainfall expected in a given year",
+      "The amount of sunlight and heat a region gets",
+      "The complex conditions expressed by a specific vineyard"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 638,
+    "text": "Which of the following does a region’s climate tell us? Expected temperatures Expected weather conditions Expected style of wine Expected type of grape",
+    "options": [
+      "All of the above",
+      "1, 2, and 3 only",
+      "1 and 2 only",
+      "3 and 4 only"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 639,
+    "text": "Which of the following pairs are examples of cool climate regions?",
+    "options": [
+      "Australia and Germany",
+      "Central Spain and Southern France",
+      "Germany and Northern France",
+      "Northern and Southern France"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 640,
+    "text": "Which of the following statements are TRUE about wines from a cool climate? High in acidity Mainly white Lower in alcohol Refreshing",
+    "options": [
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2, and 4 only",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 641,
+    "text": "Which of the following are considered hot climate regions Australia Central Spain Germany Southern France",
+    "options": [
+      "2 and 4 only",
+      "1 only",
+      "1, 2 and 4",
+      "2, 3, and 4"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 642,
+    "text": "Red, high in alcohol, and rich in flavour is typical of a hot climate wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 643,
+    "text": "Red wines are mainly produced in hot climates because:",
+    "options": [
+      "All black grapes have thick skins",
+      "Black grapes need more heat to ripen",
+      "Red wines are always high in alcohol",
+      "All of the above"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 644,
+    "text": "A Chardonnay from a cool climate will be typically full-bodied with flavours of stone and tropical fruits.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "What Makes Wine Different?",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 645,
+    "text": "Cool climate wines are typically lower in alcohol.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 646,
+    "text": "Dry, intensely fruity, light to medium body with refreshingly high acidity and aromas of green fruits and herbaceous notes best describes which of the following wines?",
+    "options": [
+      "Chardonnay",
+      "Merlot",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 647,
+    "text": "Which of the following is a wine made from Sauvignon Blanc?",
+    "options": [
+      "Chablis",
+      "Champagne",
+      "Hermitage",
+      "Sancerre"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 648,
+    "text": "Which pair of characters is associated with Riesling as it ages?",
+    "options": [
+      "Asparagus and Green Bell Pepper",
+      "Banana and Vanilla",
+      "Petrol and Dried Apricots",
+      "Strawberry and Plum"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 649,
+    "text": "Which of the following grapes is often blended with Cabernet Sauvignon in Bordeaux?",
+    "options": [
+      "Merlot",
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Syrah/Shiraz"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 650,
+    "text": "Which pair of regions produces good examples of Merlot-based wines?",
+    "options": [
+      "Australia and Côte-Rotie",
+      "California and Châteauneuf-du-Pape",
+      "Chile and St. Emilion",
+      "New Zealand and Burgundy"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 651,
+    "text": "Pinot Noir produces wines with flavours of cherry, blackberry, and black pepper",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 652,
+    "text": "A wine that is deeply coloured, rich, powerful, peppery, and has the ability to age is likely going to be made from:",
+    "options": [
+      "Cabernet Sauvignon",
+      "Chardonnay",
+      "Pinot Noir",
+      "Syrah/Shiraz"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 653,
+    "text": "Germany is most famous for which of the following wines?",
+    "options": [
+      "Pinot Noir",
+      "Riesling",
+      "Sauvignon Blanc",
+      "Syrah/Shiraz"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 654,
+    "text": "Which grape is used in Hermitage?",
+    "options": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Sauvignon Blanc",
+      "Syrah/Shiraz"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 655,
+    "text": "Which grape can be described as having floral aromas?",
+    "options": [
+      "Chardonnay",
+      "Pinot Noir",
+      "Riesling",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 656,
+    "text": "Which grape can be described as having blackcurrant aromas?",
+    "options": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Pinot Noir",
+      "Sauvignon Blanc"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 657,
+    "text": "Which pair of wines is used to make Champagne?",
+    "options": [
+      "Cabernet Sauvignon and Merlot",
+      "Cabernet Sauvignon and Sauvignon Blanc",
+      "Chardonnay and Pinot Noir",
+      "Chardonnay and Sauvignon Blanc"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Principal Grape Varieties",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 658,
+    "text": "Which pair of wines is used to make Bordeaux?",
+    "options": [
+      "Cabernet Sauvignon and Merlot",
+      "Cabernet Sauvignon and Sauvignon Blanc",
+      "Chardonnay and Pinot Noir",
+      "Chardonnay and Sauvignon Blanc"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 659,
+    "text": "Pinot Grigio is a full-bodied white wine from Italy",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 660,
+    "text": "Soave is a light-bodied wine from Italy with flavours of citrus and apple",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 661,
+    "text": "Where is Sauternes?",
+    "options": [
+      "Bordeaux",
+      "Burgundy",
+      "Sancerre",
+      "Northern Rhône"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 662,
+    "text": "Where is Rioja?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "Spain"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 663,
+    "text": "Which of the following is a popular sparkling wine from Spain?",
+    "options": [
+      "Asti",
+      "Cava",
+      "Champagne",
+      "Rioja"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Other Popular Varietals and Wines",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 664,
+    "text": "Châteauneuf-du-Pape is a light-bodied red wine with fresh, fruity flavours",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "How Wine is Made",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 665,
+    "text": "When are grapes harvested?",
+    "options": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "How Wine is Made",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 666,
+    "text": "Which of the following happens when grape juice is left in contact with the skins during fermentation? Acidity levels decrease Alcohol levels are increased Colour is extracted Tannins are extracted",
+    "options": [
+      "1 and 4",
+      "2 and 3",
+      "1 and 2",
+      "3 and 4"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "How Wine is Made",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 667,
+    "text": "What is the key difference between making red wines and rosé wines?",
+    "options": [
+      "Less time is spent in contact with the skins when making rosé wines",
+      "More time is spent in contact with the skins when making rosé wines",
+      "Only the juice is used when making rosé wines",
+      "None of the above – winemaking is the same for red and rosé wines"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "How Wine is Made",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 668,
+    "text": "Tannic red wines mature in bottles",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Wine Tasting",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 669,
+    "text": "Which of the following is a faulty aroma in a wine?",
+    "options": [
+      "Damp cardboard or vinegar",
+      "Fruits or flowers",
+      "Petrol or vegetables",
+      "Spices or oak"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Wine Tasting",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 670,
+    "text": "When a wine smells of wet leaves and mushrooms, what has likely happened to the wine?",
+    "options": [
+      "The wine is faulty",
+      "The wine was aged in oak",
+      "The wine has been matured for a long time in bottle",
+      "The wine is a Shiraz"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Wine Tasting",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 671,
+    "text": "Why is it important to draw in air when tasting wine?",
+    "options": [
+      "It releases flavour and aromas",
+      "It lessens the impact of alcohol in the bloodstream",
+      "It helps keep the palate fresh for the next wine"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 672,
+    "text": "Which of the following statements is FALSE?",
+    "options": [
+      "Bright light will make the wine stale",
+      "Wines should be kept at a cool and constant temperature",
+      "Wines with corks should be stored upright"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 673,
+    "text": "Which style of wine may be lightly chilled to 13ºC",
+    "options": [
+      "Beaujolais",
+      "Châteauneuf-du-Pape",
+      "Hermitage",
+      "Rioja"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 674,
+    "text": "What is the serving temperature range for Cava?",
+    "options": [
+      "6 - 10ºC",
+      "10 - 13ºC",
+      "13ºC",
+      "15 - 18ºC"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 675,
+    "text": "What is the serving temperature range for an Oaked Chardonnay?",
+    "options": [
+      "6 - 10ºC",
+      "10 - 13ºC",
+      "13ºC",
+      "15 - 18ºC"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 676,
+    "text": "A Côte-Rotie is best served in which sized glassware?",
+    "options": [
+      "Large-sized glassware",
+      "Medium-sized glassware",
+      "Flute-shaped glassware",
+      "Small-sized glassware"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 677,
+    "text": "Why is a Port served in small glasses?",
+    "options": [
+      "To allow more air to come in contact with the wine",
+      "To enhance the bubbles traveling up the glass",
+      "To emphasize the fruit characteristics rather than the alcohol"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 678,
+    "text": "When opening a sparkling wine, the bottle is turned and not the cork.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 679,
+    "text": "How many 125ml glasses can you get from a standard 75cl bottle of wine?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Storing and Serving Wine",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 680,
+    "text": "A Blanket System preserves a wine by removing the oxygen from the bottle",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Social and Professional Responsibility",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 681,
+    "text": "Which acronym refers to the degree of alcohol concentrated in the blood system?",
+    "options": [
+      "BAC",
+      "ISO",
+      "LDA",
+      "WHO"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Social and Professional Responsibility",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 682,
+    "text": "Stomach ulcers can be the result of excessive alcohol consumption",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Social and Professional Responsibility",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 683,
+    "text": "How many units per day does World Health Organization suggest as a responsible guideline for women?",
+    "options": [
+      "1 unit",
+      "2 units",
+      "3 units",
+      "4 units"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Social and Professional Responsibility",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 684,
+    "text": "LDA refers to the age at which a person may legally purchase alcohol",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 685,
+    "text": "Umami decreases the perception of bitterness in a wine",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 686,
+    "text": "Which of the following foods is high in umami?",
+    "options": [
+      "Carrots",
+      "Cheesecake",
+      "Lemons",
+      "Mushrooms"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 687,
+    "text": "When pairing a wine with a dessert, the wine should:",
+    "options": [
+      "Be as sweeter than the dessert",
+      "Be drier than the dessert",
+      "Be high in alcohol",
+      "Be high in tannins"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 688,
+    "text": "Acidity in food increases the perception of acidity in wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 689,
+    "text": "Sweetness in food decreases the perception of body in wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 690,
+    "text": "Salt can counteract the effect of umami on a wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 691,
+    "text": "Salt decreases the perception of acidity in a wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 692,
+    "text": "An oaked, highly tannic red wine is considered to be a high-risk wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 693,
+    "text": "Chili heat in food decreases the perception of sweetness in a wine",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 694,
+    "text": "An off-dry wine is considered to be:",
+    "options": [
+      "A high-risk wine",
+      "A low risk wine"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 695,
+    "text": "A person’s personal preferences should not be taken into consideration when matching food and wine.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 696,
+    "text": "Which of the following elements is NOT considered high risk element in a wine?",
+    "options": [
+      "High Acidity",
+      "High Alcohol",
+      "Simple Flavours",
+      "Tannins"
+    ],
+    "correct_index": 2,
+    "correct_letter": "c",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 697,
+    "text": "An intensely flavoured dish like curry can match with simple, unoaked wines.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 0,
+    "correct_letter": "a",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 698,
+    "text": "Which style of wine best matches with blue cheese?",
+    "options": [
+      "Hermitage",
+      "Rioja",
+      "Sancerre",
+      "Sauternes"
+    ],
+    "correct_index": 3,
+    "correct_letter": "d",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 699,
+    "text": "Which style of wine best matches with a light salad and vinaigrette dressing?",
+    "options": [
+      "Oaked Chardonnay",
+      "Pinot Grigio",
+      "Pinot Noir",
+      "Australian Shiraz"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  },
+  {
+    "id": 700,
+    "text": "A low acid wine is a good match for fatty or oily foods.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct_index": 1,
+    "correct_letter": "b",
+    "topic": "Food and Wine Matching",
+    "difficulty": "L2",
+    "level": "L2",
+    "explanation": ""
+  }
+]
