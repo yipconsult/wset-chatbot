@@ -673,21 +673,44 @@ const ALL_TOPICS = [
   // New world
   'australia', 'new zealand', 'usa', 'chile', 'argentina', 'south africa',
   'california', 'oregon', 'washington', 'mendoza', 'barossa', 'marlborough',
+  'coonawarra', 'napa', 'sonoma', 'willamette', 'maipo', 'colchagua',
+  'casablanca', 'stellenbosch', 'margaret river',
   // Grape varieties - white
   'chardonnay', 'sauvignon blanc', 'riesling', 'pinot grigio', 'pinot gris',
   'gewurztraminer', 'viognier', 'chenin blanc', 'semillon',
+  'grüner veltliner', 'albariño', 'torrontés', 'furmint', 'garganega',
+  'cortese', 'verdicchio', 'fiano', 'muscadet',
   // Grape varieties - black
   'pinot noir', 'cabernet sauvignon', 'merlot', 'syrah', 'shiraz',
   'sangiovese', 'nebbiolo', 'tempranillo', 'malbec', 'grenache',
+  'carménère', 'touriga nacional', 'zinfandel', 'mourvèdre', 'cinsault',
+  'pinotage', 'corvina', 'aglianico', 'nerello', 'monastrell',
   // Wine styles
   'sparkling', 'rosé', 'sweet', 'dessert', 'fortified', 'sherry', 'port',
-  'ice wine', 'late harvest',
+  'ice wine', 'late harvest', 'botrytis', 'noble rot', 'passito',
   // Production & viticulture
   'tasting', 'pairing', 'storage', 'service', 'viticulture', 'vinification',
   'fermentation', 'malolactic', 'lees', 'oak', 'tannin', 'acid', 'acidity',
   'body', 'alcohol', 'sugar', 'yeast', 'barrel', 'stainless steel',
+  'maceration', 'carbonic', 'pigeage', 'remontage', 'batonnage',
+  'fining', 'filtration', 'racking', 'cold soak', 'chaptalization',
+  'sur lie', 'autolysis', 'whole bunch', 'amphora', 'concrete',
+  // Climate & viticulture (L3)
+  'continental', 'maritime', 'mediterranean', 'diurnal', 'mistral',
+  'hail', 'frost', 'drought', 'irrigation', 'canopy', 'trellising',
+  'pergola', 'guyot', 'cordon', 'bush vine', 'gobelet',
+  // Quality & classification (L3)
+  'grand cru', 'premier cru', 'cru', 'classification',
+  'aoc', 'doc', 'docg', 'ava', 'pgi', 'pdo',
+  // L3 regions
+  'hermitage', 'côte-rôtie', 'condrieu', 'cornas', 'crozes-hermitage',
+  'châteauneuf-du-pape', 'pouilly-fumé', 'sancerre', 'sauternes',
+  'pomerol', 'saint-émilion', 'margaux', 'pauillac', 'saint-estèphe',
+  'northern rhône', 'southern rhône', 'mâconnais', 'côte chalonnaise',
+  'cafayate', 'uco valley', 'luján', 'maipó',
   // Spirits
   'whisky', 'brandy', 'cognac', 'spirits', 'vodka', 'gin', 'rum',
+  'armagnac', 'calvados', 'tequila', 'mezcal',
 ];
 
 function detectTopics(text) {
@@ -783,10 +806,30 @@ function chunkLevel(source) {
 
 function detectQueryLevel(text) {
   const t = text.toLowerCase();
+  // Explicit level mention
   if (/\b(level 3|l3|wset 3|wset3|advanced|level three)\b/.test(t)) return 'L3';
   if (/\b(level 1|l1|wset 1|wset1|beginner|level one|foundation)\b/.test(t)) return 'L1';
   if (/\b(level 2|l2|wset 2|wset2|intermediate|level two)\b/.test(t)) return 'L2';
-  return null; // no specific level requested
+
+  // Infer L3 from advanced terminology
+  const l3Terms = [
+    'carbonic maceration', 'pigeage', 'remontage', 'batonnage', 'sur lie',
+    'autolysis', 'whole bunch', 'chaptalization', 'cold soak',
+    'hermitage', 'côte-rôtie', 'condrieu', 'cornas', 'crozes-hermitage',
+    'châteauneuf-du-pape', 'pomerol', 'saint-émilion', 'sauternes',
+    'grüner veltliner', 'touriga nacional', 'carménère', 'furmint',
+    'noble rot', 'botrytis', 'passito',
+    'grand cru', 'premier cru', 'docg', 'ava',
+    'continental climate', 'maritime climate', 'diurnal range',
+    'organic', 'biodynamic', 'sustainable', 'orange wine',
+    'médoc classification', '1855 classification', 'barolo', 'barbaresco',
+    'amarone', 'ripasso', 'recioto', 'tokaji', 'eiswein',
+    'flor', 'solera', 'fino', 'oloroso', 'amontillado',
+  ];
+  for (const term of l3Terms) {
+    if (t.includes(term)) return 'L3';
+  }
+  return null;
 }
 
 // ── Build prompt ─────────────────────────────────────────────────
