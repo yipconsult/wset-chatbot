@@ -11,6 +11,7 @@ import Syllabus from './pages/Syllabus';
 import TopicDetail from './pages/TopicDetail';
 import Admin from './pages/Admin';
 import ErrorBoundary from './components/ErrorBoundary';
+import FeedbackModal from './components/FeedbackModal';
 import type { ReactNode } from 'react';
 
 function ProtectedRoute({ children }: { children: ReactNode }) {
@@ -103,6 +104,7 @@ export default function App() {
             }
           />
         </Routes>
+        <FeedbackModal />
       </AuthProvider>
     </BrowserRouter>
   );

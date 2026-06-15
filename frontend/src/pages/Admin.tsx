@@ -8,10 +8,11 @@ import {
   fetchQuestions, fetchAdminReports, resolveReport,
   adminUpdateQuestion, adminExportQuestions, adminImportQuestions,
   fetchAdminAnalytics, fetchAdminChatFeedback, fetchRagStatus,
-  type Question, type ReportedQuestion, type AdminAnalytics, type ChatFeedback, type RagStatus,
+  fetchAppFeedback, dismissAppFeedback,
+  type Question, type ReportedQuestion, type AdminAnalytics, type ChatFeedback, type RagStatus, type AppFeedback,
 } from '../api';
 
-type Tab = 'questions' | 'reports' | 'import-export' | 'analytics';
+type Tab = 'questions' | 'reports' | 'import-export' | 'analytics' | 'feedback';
 
 export default function Admin() {
   const [authed, setAuthed] = useState(!!localStorage.getItem('admin_secret'));
@@ -104,7 +105,7 @@ function AdminTabs({ onLogout: _onLogout }: { onLogout: () => void }) {
   return (
     <div>
       <div className="flex gap-1 mb-6 border-b border-[#E5E0DA]">
-        {(['questions', 'reports', 'import-export', 'analytics'] as Tab[]).map(t => (
+        {(['questions', 'reports', 'import-export', 'analytics', 'feedback'] as Tab[]).map(t => (
           <button
             key={t}
             onClick={() => setTab(t)}
@@ -123,6 +124,7 @@ function AdminTabs({ onLogout: _onLogout }: { onLogout: () => void }) {
       {tab === 'reports' && <ReportsPanel />}
       {tab === 'import-export' && <ImportExportPanel />}
       {tab === 'analytics' && <AnalyticsPanel />}
+      {tab === 'feedback' && <FeedbackPanel />}
     </div>
   );
 }
@@ -918,6 +920,103 @@ function AnalyticsPanel() {
           </div>
         </div>
       )}
+    </div>
+  );
+}
+
+// ── App Feedback Panel ─────────────────────────────────────────────
+
+const FEEDBACK_LABELS: Record<string, string> = {
+  bug: 'Bug',
+  feedback: 'Feedback',
+  opinion: 'Opinion',
+};
+
+const FEEDBACK_COLORS: Record<string, string> = {
+  bug: '#C13838',
+  feedback: '#722F37',
+  opinion: '#C8A951',
+};
+
+function FeedbackPanel() {
+  const [feedback, setFeedback] = useState<AppFeedback[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [dismissing, setDismissing] = useState<string | null>(null);
+
+  const load = useCallback(async () => {
+    setLoading(true);
+    try {
+      const data = await fetchAppFeedback();
+      setFeedback(data.feedback);
+    } catch { /* ignore */ }
+    setLoading(false);
+  }, []);
+
+  useEffect(() => { load(); }, [load]);
+
+  const handleDismiss = async (id: string) => {
+    setDismissing(id);
+    try {
+      await dismissAppFeedback(id);
+      setFeedback(prev => prev.filter(f => f.id !== id));
+    } catch { /* ignore */ }
+    setDismissing(null);
+  };
+
+  if (loading) {
+    return (
+      <div className="flex justify-center py-16">
+        <div className="w-6 h-6 border-2 border-[#722F37] border-t-transparent rounded-full animate-spin" />
+      </div>
+    );
+  }
+
+  if (feedback.length === 0) {
+    return (
+      <div className="text-center py-16 text-[#6B6B6B] text-sm">
+        No app feedback yet. Users can send feedback via the floating button on any page.
+      </div>
+    );
+  }
+
+  return (
+    <div>
+      <p className="text-sm text-[#6B6B6B] mb-4">{feedback.length} feedback submission(s)</p>
+      <div className="space-y-3">
+        {feedback.map(f => (
+          <div key={f.id} className="bg-white border border-[#E5E0DA] rounded-lg p-4">
+            <div className="flex items-start justify-between gap-4">
+              <div className="flex-1 min-w-0">
+                <div className="flex items-center gap-2 mb-2">
+                  <span
+                    className="text-xs font-medium px-2 py-0.5 rounded-full text-white"
+                    style={{ backgroundColor: FEEDBACK_COLORS[f.type] || '#6B6B6B' }}
+                  >
+                    {FEEDBACK_LABELS[f.type] || f.type}
+                  </span>
+                  <span className="text-xs text-[#6B6B6B]">{f.userId}</span>
+                  {f.page && (
+                    <span className="text-xs text-[#6B6B6B] bg-[#FAFAF8] px-1.5 py-0.5 rounded">
+                      {f.page}
+                    </span>
+                  )}
+                  <span className="text-xs text-[#6B6B6B] ml-auto">
+                    {new Date(f.timestamp).toLocaleString()}
+                  </span>
+                </div>
+                <p className="text-sm text-[#4A4A4A] whitespace-pre-wrap">{f.message}</p>
+              </div>
+              <button
+                onClick={() => handleDismiss(f.id)}
+                disabled={dismissing === f.id}
+                className="px-3 py-1.5 text-xs font-medium text-white bg-[#2D6A4F] rounded-md hover:bg-[#245740] disabled:opacity-50 cursor-pointer shrink-0"
+              >
+                {dismissing === f.id ? '...' : 'Dismiss'}
+              </button>
+            </div>
+          </div>
+        ))}
+      </div>
     </div>
   );
 }

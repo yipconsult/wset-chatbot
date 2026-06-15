@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // ── Config ───────────────────────────────────────────────────────
-const LLM_API_KEY = process.env.LLM_API_KEY || 'sk-691bc9993b0c48ed8d840cee41e7d8d5';
+const LLM_API_KEY = process.env.LLM_API_KEY || '';
 const LLM_BASE_URL = process.env.LLM_BASE_URL || 'https://api.deepseek.com';
 const LLM_MODEL = 'deepseek-chat';
 

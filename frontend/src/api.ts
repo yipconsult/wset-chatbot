@@ -440,3 +440,32 @@ export function sendMessage(
 
   return controller;
 }
+
+// ── App Feedback ────────────────────────────────────────────────────
+
+export interface AppFeedback {
+  id: string;
+  userId: string;
+  type: 'bug' | 'feedback' | 'opinion';
+  message: string;
+  page: string;
+  timestamp: string;
+}
+
+export async function submitAppFeedback(data: {
+  type: string;
+  message: string;
+  page?: string;
+}): Promise<{ submitted: boolean; id: string }> {
+  const { data: result } = await api.post('/feedback', data);
+  return result;
+}
+
+export async function fetchAppFeedback(): Promise<{ feedback: AppFeedback[]; total: number }> {
+  const { data } = await api.get('/admin/app-feedback', { headers: adminHeaders() });
+  return data;
+}
+
+export async function dismissAppFeedback(id: string): Promise<void> {
+  await api.delete(`/admin/app-feedback/${id}`, { headers: adminHeaders() });
+}

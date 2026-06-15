@@ -65,6 +65,7 @@ const userAnswers = new Map(); // userId -> [{questionId, selectedIndex, isCorre
 const examSessions = new Map(); // sessionId -> {userId, questions, answers, startedAt, timeLimitMin, finished}
 const reviewState = new Map(); // userId -> Map(questionId -> {interval, repetitions, easeFactor, nextReviewAt, lastAnswerAt})
 const chatFeedback = []; // [{ threadId, messageIndex, userId, rating, note, timestamp }]
+const appFeedback = []; // [{ id, userId, type, message, page, timestamp }]
 const tutorAnalytics = {
   totalMessages: 0,
   totalThreads: 0,
@@ -595,6 +596,31 @@ app.post('/api/questions/:id/report', (req, res) => {
   res.json({ reported: true });
 });
 
+// ── App feedback ──────────────────────────────────────────────────
+
+// POST /api/feedback — users submit bugs/feedback/opinions
+app.post('/api/feedback', (req, res) => {
+  const user = requireUser(req, res);
+  if (!user) return;
+
+  const { type, message, page } = req.body;
+  if (!message || !message.trim()) {
+    return res.status(400).json({ detail: 'Message is required' });
+  }
+
+  const id = Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+  appFeedback.push({
+    id,
+    userId: user.id,
+    type: type || 'feedback',
+    message: message.trim(),
+    page: page || '',
+    timestamp: new Date().toISOString(),
+  });
+  console.log(`App feedback [${type}] from ${user.id}: ${message.substring(0, 80)}`);
+  res.json({ submitted: true, id });
+});
+
 // ── Exam Mode endpoints ──────────────────────────────────────────
 
 // POST /api/exam/start
@@ -1017,7 +1043,7 @@ app.get('/health', (req, res) => res.json({ status: 'ok' }));
 
 // ── Admin endpoints ─────────────────────────────────────────────
 
-const ADMIN_SECRET = process.env.ADMIN_SECRET || 'wset-admin';
+const ADMIN_SECRET = process.env.ADMIN_SECRET || (process.env.NODE_ENV === 'production' ? '' : 'wset-admin');
 
 function requireAdmin(req, res) {
   const secret = req.headers['x-admin-secret'];
@@ -1061,6 +1087,25 @@ app.post('/api/admin/reports/:questionId/resolve', (req, res) => {
     if (reportedQuestions[i].questionId === qId) reportedQuestions.splice(i, 1);
   }
   res.json({ resolved: true });
+});
+
+// GET /api/admin/app-feedback — list all app feedback
+app.get('/api/admin/app-feedback', (req, res) => {
+  if (!requireAdmin(req, res)) return;
+
+  const list = [...appFeedback].reverse(); // newest first
+  res.json({ feedback: list, total: list.length });
+});
+
+// DELETE /api/admin/app-feedback/:id — dismiss a feedback entry
+app.delete('/api/admin/app-feedback/:id', (req, res) => {
+  if (!requireAdmin(req, res)) return;
+
+  const idx = appFeedback.findIndex(f => f.id === req.params.id);
+  if (idx < 0) return res.status(404).json({ detail: 'Feedback not found' });
+
+  appFeedback.splice(idx, 1);
+  res.json({ dismissed: true });
 });
 
 // PUT /api/admin/questions/:id — edit a question
