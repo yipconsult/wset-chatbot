@@ -28,7 +28,10 @@ function parseWset3() {
       for (const line of optLines) {
         const m = line.match(/^\s*([A-D])\)\s+(.+)/s);
         if (m) {
-          options.push(m[2].replace(/\n/g, ' ').replace(/\s+/g, ' ').trim());
+          let optText = m[2].replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
+          // Strip leaked Answer/Solution text from last option
+          optText = optText.replace(/\s*Answer:.*$/, '').replace(/\s*Solution:.*$/, '').trim();
+          options.push(optText);
         }
       }
     }
@@ -43,7 +46,7 @@ function parseWset3() {
     const correctIndex = correctLetter.charCodeAt(0) - 65;
 
     // Extract solution/explanation
-    const solMatch = block.match(/Solution:\s*(.+?)(?:\n\s*Q\d+\.|\n\s*$)/s);
+    const solMatch = block.match(/Solution:\s*(.+?)(?:\n\s*Q\d+\.|$)/s);
     const explanation = solMatch ? solMatch[1].replace(/\n/g, ' ').replace(/\s+/g, ' ').trim() : '';
 
     questions.push({
