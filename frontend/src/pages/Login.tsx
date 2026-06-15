@@ -27,8 +27,8 @@ export default function Login() {
   return (
     <div className="min-h-screen flex items-center justify-center px-4">
       <div className="w-full max-w-sm">
-        <h1 className="font-['Playfair_Display'] text-3xl font-bold text-[#722F37] text-center mb-2">
-          WSET Chatbot
+        <h1 className="flex justify-center mb-2">
+          <img src="/logo.png" alt="Wine Secret" className="h-10" />
         </h1>
         <p className="text-[#6B6B6B] text-center mb-8 text-sm">
           Sign in to continue your wine studies

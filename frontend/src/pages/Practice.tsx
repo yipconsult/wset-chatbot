@@ -93,8 +93,8 @@ export default function Practice() {
       {/* Header */}
       <header className="bg-white border-b border-[#E5E0DA]">
         <div className="max-w-2xl mx-auto px-4 py-4 flex items-center justify-between">
-          <Link to="/" className="font-['Playfair_Display'] text-xl font-bold text-[#722F37]">
-            WSET Chatbot
+          <Link to="/" className="flex items-center">
+            <img src="/logo.png" alt="Wine Secret" className="h-8" />
           </Link>
           <div className="flex items-center gap-3 text-sm">
             <Link to="/exam" className="text-[#C8A951] hover:text-[#b89a41] font-medium transition-colors">

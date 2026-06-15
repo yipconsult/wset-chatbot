@@ -43,8 +43,8 @@ export default function Dashboard() {
     <div className="min-h-screen bg-[#FAFAF8]">
       <header className="bg-white border-b border-[#E5E0DA]">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
-          <h1 className="font-['Playfair_Display'] text-xl font-bold text-[#722F37]">
-            WSET Chatbot
+          <h1 className="flex items-center">
+            <img src="/logo.png" alt="Wine Secret" className="h-8" />
           </h1>
           <div className="flex items-center gap-4">
             <span className="text-sm text-[#6B6B6B]">
