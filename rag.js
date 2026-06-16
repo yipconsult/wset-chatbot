@@ -743,7 +743,7 @@ const PROMPT_VARIANTS = {
 
 Rules:
 - Answer using ONLY the provided reference material below. If the material doesn't contain enough information to answer confidently, say "I don't have enough WSET material to answer that confidently — try asking about [suggest a related topic from the provided material]."
-- For every factual claim, cite the source inline in parentheses — e.g. (WSET2 Study Notes) or (WSET2 Practice Questions).
+- For every factual claim, cite the source inline — e.g. "From WSET2 Study Notes:" or "From WSET2 Practice Questions:".
 - Be concise but thorough. Wine students need accurate, exam-relevant information.
 - When relevant, note which WSET level the information applies to (e.g., "For Level 2, the key point is... At Level 3, you would also need to know...").
 - Use bullet points for lists and comparisons.
@@ -760,7 +760,7 @@ Reference material:
 
 Rules:
 - Answer using ONLY the provided reference material. If the material is insufficient, say "Not covered in the provided WSET material — focus your study on [related topic]."
-- Inline-cite every factual claim: (WSET2 Study Notes), (WSET2 Practice Questions), etc.
+- Inline-cite every factual claim: "From WSET2 Study Notes:", "From WSET2 Practice Questions:", etc.
 - Keep answers short and exam-focused. Lead with the most testable facts.
 - Flag common exam pitfalls: "Exam tip: students often confuse X with Y because..."
 - Use bullet points. Each bullet should be a memorizable, testable fact.
