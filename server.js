@@ -1198,9 +1198,13 @@ app.post('/api/admin/questions/import', (req, res) => {
 
 // ── Start ───────────────────────────────────────────────────────
 
-rag.initRag().then(() => {
-  app.listen(PORT, () => {
-    console.log(`WSET API running at http://localhost:${PORT}`);
-    console.log(`  ${questions.length} questions loaded`);
+// Start server immediately so Render's port scan doesn't time out.
+// Embeddings load in the background — search falls back to TF-IDF until ready.
+app.listen(PORT, () => {
+  console.log(`WSET API running at http://localhost:${PORT}`);
+  console.log(`  ${questions.length} questions loaded`);
+  // Generate embeddings in background after port is open
+  rag.initRag().then(() => {
+    console.log('RAG embeddings ready — hybrid search enabled');
   });
 });
