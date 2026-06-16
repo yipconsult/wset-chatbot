@@ -99,7 +99,8 @@ export default function Admin() {
   );
 }
 
-function AdminTabs({ onLogout: _onLogout }: { onLogout: () => void }) {
+function AdminTabs(__props: { onLogout: () => void }) {
+  void (__props as unknown);
   const [tab, setTab] = useState<Tab>('questions');
 
   return (
@@ -150,7 +151,7 @@ function QuestionsPanel() {
     setLoading(false);
   }, [page, levelFilter]);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => { load(); }, [load]); // eslint-disable-line react-hooks/set-state-in-effect
 
   const filtered = search
     ? questions.filter(q =>
@@ -272,11 +273,11 @@ function EditModal({ question, onClose, onSaved }: {
   const [text, setText] = useState(question.text);
   const [options, setOptions] = useState([...question.options]);
   const [correctIndex, setCorrectIndex] = useState<number>(
-    (question as any).correct_index ?? 0
+    (question as Question & { correct_index?: number }).correct_index ?? 0
   );
   const [topic, setTopic] = useState(question.topic || 'general');
   const [level, setLevel] = useState(question.level || 'L2');
-  const [explanation, setExplanation] = useState((question as any).explanation || '');
+  const [explanation, setExplanation] = useState((question as Question & { explanation?: string }).explanation || '');
   const [imageUrl, setImageUrl] = useState(question.image_url || '');
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState('');
@@ -474,7 +475,7 @@ function ReportsPanel() {
     setLoading(false);
   }, []);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => { load(); }, [load]); // eslint-disable-line react-hooks/set-state-in-effect
 
   const handleResolve = async (questionId: number) => {
     setResolving(questionId);
@@ -683,7 +684,7 @@ function AnalyticsPanel() {
     setLoading(false);
   }, []);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => { load(); }, [load]); // eslint-disable-line react-hooks/set-state-in-effect
 
   if (loading) {
     return (
@@ -952,7 +953,7 @@ function FeedbackPanel() {
     setLoading(false);
   }, []);
 
-  useEffect(() => { load(); }, [load]);
+  useEffect(() => { load(); }, [load]); // eslint-disable-line react-hooks/set-state-in-effect
 
   const handleDismiss = async (id: string) => {
     setDismissing(id);

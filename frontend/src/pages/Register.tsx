@@ -18,8 +18,9 @@ export default function Register() {
     try {
       await register(email, password, wsetLevel);
       navigate('/');
-    } catch (err: any) {
-      setError(err.response?.data?.detail || 'Registration failed. Please try again.');
+    } catch (err: unknown) {
+      const detail = (err as { response?: { data?: { detail?: string } } })?.response?.data?.detail;
+      setError(detail || 'Registration failed. Please try again.');
     } finally {
       setSubmitting(false);
     }

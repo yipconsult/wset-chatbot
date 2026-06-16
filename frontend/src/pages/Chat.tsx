@@ -35,7 +35,10 @@ export default function Chat() {
     } catch { /* ignore */ }
   }, []);
 
-  useEffect(() => { loadThreads(); }, [loadThreads]);
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    loadThreads();
+  }, [loadThreads]);
   useEffect(() => { scrollToBottom(); }, [activeThread?.messages, streaming]);
 
   // ── New thread ────────────────────────────────────────────

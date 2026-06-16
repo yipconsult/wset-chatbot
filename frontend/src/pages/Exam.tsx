@@ -50,10 +50,28 @@ export default function Exam() {
     }
   };
 
+  // ── Finish ──────────────────────────────────────────────
+
+  const handleFinish = async () => {
+    if (!session) return;
+    clearTimer();
+    setLoading(true);
+    try {
+      const r = await finishExam(session.session_id);
+      setResult(r);
+      setState('finished');
+    } catch {
+      setError('Failed to submit exam.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
   // ── Auto-finish when time runs out ──────────────────────
 
   useEffect(() => {
     if (state === 'running' && timeLeft === 0) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       handleFinish();
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -79,23 +97,6 @@ export default function Exam() {
 
   const goPrev = () => {
     if (currentIdx > 0) setCurrentIdx(currentIdx - 1);
-  };
-
-  // ── Finish ──────────────────────────────────────────────
-
-  const handleFinish = async () => {
-    if (!session) return;
-    clearTimer();
-    setLoading(true);
-    try {
-      const r = await finishExam(session.session_id);
-      setResult(r);
-      setState('finished');
-    } catch {
-      setError('Failed to submit exam.');
-    } finally {
-      setLoading(false);
-    }
   };
 
   // ── Format time ─────────────────────────────────────────

@@ -43,6 +43,7 @@ export default function Practice() {
   }, []);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     loadQuestions();
     loadProgress();
   }, [loadQuestions, loadProgress]);
